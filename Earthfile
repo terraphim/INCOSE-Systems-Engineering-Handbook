@@ -1,5 +1,5 @@
 VERSION 0.7
-PROJECT applied-knowledge-systems/certified-systems-engineer
+PROJECT applied-knowledge-systems/INCOSE-Systems-Engineering-Handbook
 
 FROM ubuntu:18.04
 
