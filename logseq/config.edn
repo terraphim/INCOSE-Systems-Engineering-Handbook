@@ -346,6 +346,7 @@
  :file/name-format :triple-lowbar
  :graph/settings {:builtin-pages? false, :journal? false}
  :editor/preferred-pasting-file? true
+ :journal/page-title-format "E, dd.MM.yyyy"
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
