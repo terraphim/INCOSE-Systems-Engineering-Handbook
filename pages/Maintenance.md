@@ -5,5 +5,5 @@ inputs:: [[Operation report]], [[Life cycle concepts]], [[Validated system]], [[
 outputs:: [[Maintenance record]], [[Maintenance constraints]], [[Maintenance procedure]], [[Maintenance report]], [[Maintenance enabling system]]
 activities:: [[Prepare for maintenance]], [[Perform maintenance]], [[Perform logistics support]], [[Manage results of maintenance and logistics]]
 
-- ![image.png](../assets/image_1689349855653_0.png)
+-
 -
