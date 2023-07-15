@@ -1,6 +1,6 @@
 type:: [[Business function]]
 source:: [[@Digital Systems Engineering Process Model Version: 1.0]]
 documentation:: As stated in ISO/IEC/IEEE 15288, [6.4.5.1] The purpose of the Design Definition process is to provide sufficient detailed data and information about the system and its elements to enable the implementation consistent with architectural entities as defined in models and views of the system architecture.  See detailed description in the INCOSE Handbook v.4, page 70.
-inputs:: [[Life cycle concepts]], [[System function definition]], [[System requirements]], [[System functional interface identification]], [[System architecture description]], [[System architecture rationale]], []
+inputs:: [[Life cycle concepts]], [[System function definition]], [[System requirements]], [[System functional interface identification]], [[System architecture description]], [[System architecture rationale]], [[Preliminary interface definition]], [[Preliminary TPM needs]], [[Preliminary TPM data]], [[Architecture traceability]], [[Interface definition update identification]], [[Implementation traceability]], [[Life cycle constraints]]
 
--
+- ![image.png](../assets/image_1689432448604_0.png)
