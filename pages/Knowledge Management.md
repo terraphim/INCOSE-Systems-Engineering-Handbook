@@ -5,4 +5,5 @@ inputs:: [[Organization strategic plan]], [[Organization lesson learned]], [[Rec
 outputs:: [[Knowledge management report]], [[Knowledge management system]], [[Knowledge management plan]]
 activities:: [[Plan knowledge management]], [[Manage knowledge, skills and knowledge assets]], [[Share knowledge and skills throughout the organization]], [[Share knowledge assets throughout the organization]]
 
-- ![image.png](../assets/image_1689412517943_0.png)
+- ![image.png](../assets/image_1689416113839_0.png)
+-
