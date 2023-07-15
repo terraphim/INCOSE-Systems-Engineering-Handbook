@@ -5,5 +5,5 @@ inputs:: [[Validation criteria]], [[Life cycle concepts]], [[Transition report]]
 outputs:: [[Validation strategy]], [[Validated system]], [[Validation record]], [[Validation constraints]], [[Validation enabling system requirements]], [[Validation procedure]], [[Validated requirements]], [[Validation report]]
 activities:: [[Prepare for validation]], [[Perform validation]], [[Manage results of validation]]
 
-- ![image.png](../assets/image_1689408740459_0.png)
+- ![image.png](../assets/image_1689408740459_0.png){:height 517, :width 678}
 -
