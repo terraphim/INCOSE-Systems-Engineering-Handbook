@@ -5,4 +5,4 @@ inputs:: [[Decision situation]]
 outputs:: [[Decision management strategy]], [[Decision report]], [[Decision record]]
 activities:: [[Prepare for decisions]], [[Analyze the decision information]], [[Make and manage decisions]]
 
--
+- ![image.png](../assets/image_1689495563045_0.png)
