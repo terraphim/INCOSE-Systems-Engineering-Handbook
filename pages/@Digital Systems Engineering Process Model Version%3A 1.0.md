@@ -5,42 +5,18 @@
 	- Please take note of the Application and Copyright notes provided below.
 	- Created by: Alexander Efremov, CSEP, SE-ZERT B
 	- alexander.efremoff@gmail.com; https://www.linkedin.com/in/alexander-efremov-88b65b28/
-- # Application notes
-- To navigate through the interactive process model, follow these steps:
-  1. In the "Model Tree," expand "Views" and select the view titled "01 - System Life Cycle Processes."
-- 2. To obtain a detailed description of the units within the model (including processes, inputs, and outputs), click on the unit of interest using the left mouse button.
-- 3. To view the inputs and outputs associated with a specific process, click on the blue square located next to the process name.
-  4. To view the list of processes within the "01 - System Life Cycle Processes" view, click on the blue rectangle associated with this view.
-- To search for a specific unit within the process model, follow these steps:
-  1. In the "Model Tree," expand "Model Content - Business."
-- 2. Activate the search function in your browser by pressing Ctrl+F (for Windows).
-- 3. Type the name of the unit you are searching for in the search bar.
-- 4. Use the mouse to select the unit found by the search function.
-- To execute SQL queries within the process model, follow these steps:
-- 1. Click on "Query" located under "Systems Engineering Process Model."
-- 2. Type in your query. Please note that knowledge of the data structure of the Archi tool is required for this step. For more information on SQL queries in the HTML report, please see the Archi Wiki at https://github.com/archimatetool/archi/wiki/SQL-queries-in-the-HTML-report.
-- To contact the author or report an issue:
-- 1. follow the link on GitHub: https://git.io/JTFMF
-- 2. write an email to alexander.efremoff@gmail.com
-- *** Copyright notes ***
-- Different parts of this product have different copyright owners. Use of this product, is expressly subject to prior consent from the following parties: INCOSE, ISO or a national representative body, Wiley and the German Chapter of INCOSE GfSE e.V. (the “Consenting Parties”)
--
-- INCOSE grants permission, subject to consent from the additional Consenting Parties, on the following terms and conditions:
--
-- Author Use. Authors have full unfettered rights to use their contributions, with credit and attribution to the INCOSE Technical source, except with regard to abstraction, which requires additional credit to the source.
--
-- INCOSE Internal Use. Members of INCOSE are hereby permitted to reproduce and use this document, or parts thereof, including permission to prepare derivative works from this document for INCOSE’s internal use, with credit and attribution to INCOSE so long as this copyright notice is included with all reproductions and derivative works.
--
-- INCOSE External Use. Sharing and reproduction of this document to non-affiliate third parties outside of INCOSE is permitted only when shared or reproduced in whole and not altered in any way. Any preparation of derivative works for external and/or commercial use is expressly prohibited unless otherwise granted in a separate written agreement between the end-user and INCOSE. Any external use not expressly permitted under this section shall be prior approved by INCOSE upon receipt of written request for the same sent to: INCOSE Central Office, 7670 Opportunity Road, Suite 220, San Diego, CA 92111-2222.
--
-- This product contains quotations from ISO/IEC/IEEE 15288:2015. © ISO. These quotations are reproduced with permission of the American National Standards Institute (ANSI) on behalf of the International Organization for Standardization. These quotations are explicitly marked with a copyright note. All rights reserved.
--
-- This product contains quotations from the Book "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, 4th Edition", ISBN: 978-1-118-99940-0, published by  John Wiley & Sons, Inc., authored by David D. Walden, ESEP, Garry J. Roedler, ESEP, Kevin J. Forsberg, ESEP, R. Douglas Hamelin, Thomas M. Shortell, CSEP. Permission is granted by John Wiley & Sons, Inc. All rights reserved.
-- No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 750-4470, or on the web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, or online at http://www.wiley.com/go/permissions.
--
-- This product contains quotations from the German translation of the aforementioned Handbook: "INCOSE Systems Engineering Handbuch: Ein Leitfaden für Systemlebenszyklus-Prozesse und -Aktivitäten", ISBN: 978-3-9818805-0-2, published by John Wiley & Sons, Inc., Authors of the translation: Dr. David Endler, CSEP, SE-Zert® Level A Martin Geisreiter, ESEP. SE-Zert® Level A Rüdiger Kaffenberger, SE-Zert® Level A Jürgen Rambo. © Gesellschaft für Systems Engineering e.V.
-- This product was created using the Archi modelling tool (www.archimatetool.com), distributed under an MIT type license. All rights reserved.
-- *** Changelog ***
+- # Copyright notes
+	- Different parts of this product have different copyright owners. Use of this product, is expressly subject to prior consent from the following parties: INCOSE, ISO or a national representative body, Wiley and the German Chapter of INCOSE GfSE e.V. (the “Consenting Parties”)
+	- INCOSE grants permission, subject to consent from the additional Consenting Parties, on the following terms and conditions:
+	- Author Use. Authors have full unfettered rights to use their contributions, with credit and attribution to the INCOSE Technical source, except with regard to abstraction, which requires additional credit to the source.
+	- INCOSE Internal Use. Members of INCOSE are hereby permitted to reproduce and use this document, or parts thereof, including permission to prepare derivative works from this document for INCOSE’s internal use, with credit and attribution to INCOSE so long as this copyright notice is included with all reproductions and derivative works.
+	- INCOSE External Use. Sharing and reproduction of this document to non-affiliate third parties outside of INCOSE is permitted only when shared or reproduced in whole and not altered in any way. Any preparation of derivative works for external and/or commercial use is expressly prohibited unless otherwise granted in a separate written agreement between the end-user and INCOSE. Any external use not expressly permitted under this section shall be prior approved by INCOSE upon receipt of written request for the same sent to: INCOSE Central Office, 7670 Opportunity Road, Suite 220, San Diego, CA 92111-2222.
+	- This product contains quotations from ISO/IEC/IEEE 15288:2015. © ISO. These quotations are reproduced with permission of the American National Standards Institute (ANSI) on behalf of the International Organization for Standardization. These quotations are explicitly marked with a copyright note. All rights reserved.
+	- This product contains quotations from the Book "INCOSE Systems Engineering Handbook: A Guide for System Life Cycle Processes and Activities, 4th Edition", ISBN: 978-1-118-99940-0, published by  John Wiley & Sons, Inc., authored by David D. Walden, ESEP, Garry J. Roedler, ESEP, Kevin J. Forsberg, ESEP, R. Douglas Hamelin, Thomas M. Shortell, CSEP. Permission is granted by John Wiley & Sons, Inc. All rights reserved.
+	- No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 750-4470, or on the web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, or online at http://www.wiley.com/go/permissions.
+	- This product contains quotations from the German translation of the aforementioned Handbook: "INCOSE Systems Engineering Handbuch: Ein Leitfaden für Systemlebenszyklus-Prozesse und -Aktivitäten", ISBN: 978-3-9818805-0-2, published by John Wiley & Sons, Inc., Authors of the translation: Dr. David Endler, CSEP, SE-Zert® Level A Martin Geisreiter, ESEP. SE-Zert® Level A Rüdiger Kaffenberger, SE-Zert® Level A Jürgen Rambo. © Gesellschaft für Systems Engineering e.V.
+	- This product was created using the Archi modelling tool (www.archimatetool.com), distributed under an MIT type license. All rights reserved.
+- *** Changelog
   Version 1.0 - initial release
 - *** German Version of the product ***
 - This product is an improvement of the product of the GfSE (German INCOSE Chapter)
