@@ -4,4 +4,3 @@ documentation:: Measurement data from all applicable life cycle processes, inclu
 synonyms:: Project performance measures data, Preliminary MOE data, TPM data, MOE data, Preliminary TPM data, MOP data, Organizational process performance measures data
 
 -
--
