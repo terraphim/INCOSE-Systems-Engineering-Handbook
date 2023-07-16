@@ -16,11 +16,11 @@
 	- No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 750-4470, or on the web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, or online at http://www.wiley.com/go/permissions.
 	- This product contains quotations from the German translation of the aforementioned Handbook: "INCOSE Systems Engineering Handbuch: Ein Leitfaden für Systemlebenszyklus-Prozesse und -Aktivitäten", ISBN: 978-3-9818805-0-2, published by John Wiley & Sons, Inc., Authors of the translation: Dr. David Endler, CSEP, SE-Zert® Level A Martin Geisreiter, ESEP. SE-Zert® Level A Rüdiger Kaffenberger, SE-Zert® Level A Jürgen Rambo. © Gesellschaft für Systems Engineering e.V.
 	- This product was created using the Archi modelling tool (www.archimatetool.com), distributed under an MIT type license. All rights reserved.
-- *** Changelog
-  Version 1.0 - initial release
-- *** German Version of the product ***
-- This product is an improvement of the product of the GfSE (German INCOSE Chapter)
-- Created on: 06/27/2019
-- Updated on: 04/14/2021, v.1.1
-- Created in the working group "Terminology in Systems Engineering"
-- https://gfse.de/processmodel
+- # Changelog
+	- Version 1.0 - initial release
+- # German Version of the product
+	- This product is an improvement of the product of the GfSE (German INCOSE Chapter)
+	- Created on: 06/27/2019
+	- Updated on: 04/14/2021, v.1.1
+	- Created in the working group "Terminology in Systems Engineering"
+	- https://gfse.de/processmodel
