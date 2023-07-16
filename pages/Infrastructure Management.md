@@ -5,4 +5,4 @@ inputs:: [[Organization strategic plan]], [[Organizational infrastructure needs]
 outputs:: [[Infrastructure management plan]], [[Organization infrastructure]], [[Project infrastructure]], [[Infrastructure management report]]
 activities:: [[Establish the infrastructure]], [[Maintain the infrastructure]]
 
--
+- ![image.png](../assets/image_1689501178424_0.png)
