@@ -5,4 +5,4 @@ inputs:: [[Candidate risks and opportunities]]
 outputs:: [[Risk management strategy]], [[Risk report]], [[Risk record]]
 activities:: [[Plan risk management]], [[Manage the risk profile]], [[Analyze risks]], [[Treat risks]], [[Monitor risks]]
 
--
+- ![image.png](../assets/image_1689496191946_0.png)
