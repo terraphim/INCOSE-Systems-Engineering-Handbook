@@ -1,4 +1,4 @@
-- # Welcome to the Digital Systems Engineering Process Model - Product of INCOS
+- # Welcome to the Digital Systems Engineering Process Model - Product of INCOSE
 	- Version: 1.0 (see changelog below)
 	- Published: 18.04.2023
 	- Landing page of the product: www.incose.org/process-model
