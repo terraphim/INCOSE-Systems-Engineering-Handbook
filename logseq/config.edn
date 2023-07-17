@@ -347,7 +347,7 @@
  :graph/settings {:builtin-pages? false, :journal? false}
  :editor/preferred-pasting-file? true
  :journal/page-title-format "E, dd.MM.yyyy"
- :zotero/settings-v2 {"default" {:type-id "turkhale", :page-insert-prefix "@", :overwrite-mode? false}}
+ :zotero/settings-v2 {"default" {:type-id "6520516", :page-insert-prefix "@", :overwrite-mode? false}}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
