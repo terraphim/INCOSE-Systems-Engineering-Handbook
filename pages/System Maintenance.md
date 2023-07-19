@@ -2,7 +2,7 @@ type:: [[article]]
 source:: [[@Guide to the Systems Engineering Body of Knowledge (SEBoK version 2.8)]]
 topic:: [[Maintenance]]
 
-- **Lead Authors:** *Scott Jackson, Brian Gallagher*, **Contributing Author:** *David Dorgan*
+- **Lead Authors:** ==*Scott Jackson, Brian Gallagher*==, **Contributing Author:** ==*David Dorgan*==
 - ==System Maintenance== planning begins early in the acquisition process with the development of a ==maintenance concept==. ==Maintenance planning== is conducted to evolve and establish requirements and tasks to be accomplished for achieving, restoring, and ==maintaining operational capability== for the life of the system. For a system to be sustained throughout its system life cycle, the ==maintenance process== has to be executed concurrently with the ==operations process== (ISO/IEC/IEEE 15288:2015, Clause 6.4.9).
 - ## Overview
 - The ==initial requirements for maintenance== have to be defined during the stakeholder needs and requirement definition process (Clause 6.4.1 ISO/IEC/IEEE 15288:2015) and continue to evolve during the development and operation of the system. Considerations include:
@@ -35,7 +35,7 @@ topic:: [[Maintenance]]
 - ## Training and Certification
 - Adequate training must be provided for the ==technical personnel maintaining the system==. While initial training may have been provided during the deployment phase, additional personnel may need to be trained to cope with the increased number of systems being fielded, as well as to cater to staff turnover. Timely updates to training materials and trained personnel may be required as part of system upgrades and evolution. It is important to define the ==certification standards== and contract for the training materials as part of the ==supply agreement==.
 - ## Practical Considerations
-- The ==organization responsible for maintaining the system== should have clear thresholds established to determine whether a change requested by end users, changes to correct latent defects, or changes required to fulfill the evolving mission are within the ==scope of a maintenance change== or require a more formal project to step through the entire systems engineering life-cycle. Evaluation criteria to make such a decision could include cost, schedule, risk, or criticality characteristics.
+- The ==organization responsible for maintaining the system== should have clear thresholds established to determine whether a change requested by end users, changes to correct latent defects, or changes required to fulfill the evolving mission are within the ==scope of a maintenance change== or require a more ==formal project== to step through the entire systems engineering life-cycle. Evaluation criteria to make such a decision could include cost, schedule, risk, or criticality characteristics.
 - ## References
 ### Works Cited
 ISO/IEC/IEEE. 2015.*[Systems and Software Engineering - System Life Cycle Processes](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288).*Geneva, Switzerland: International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers (IEEE). [ISO/IEC/IEEE 15288](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288):2015.
