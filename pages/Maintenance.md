@@ -4,6 +4,7 @@ documentation:: As stated in ISO/IEC/IEEE 15288, [6.4.13] The purpose of the Mai
 inputs:: [[Operation report]], [[Life cycle concepts]], [[Validated system]], [[Trained operators and maintainers]], [[Validation report]], [[Operator or maintainer training material]]
 outputs:: [[Maintenance record]], [[Maintenance constraints]], [[Maintenance procedure]], [[Maintenance report]], [[Maintenance enabling system]]
 activities:: [[Prepare for maintenance]], [[Perform maintenance]], [[Perform logistics support]], [[Manage results of maintenance and logistics]]
+synonyms::
 
 - ![image.png](../assets/image_1689444662286_0.png)
 -
