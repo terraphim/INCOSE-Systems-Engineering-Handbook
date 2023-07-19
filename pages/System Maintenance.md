@@ -7,6 +7,7 @@ topic:: [[Maintenance]]
 - ![image.png](../assets/image_1689762871422_0.png){:height 325, :width 711}
 - ## Overview
 - The ==initial requirements for maintenance== have to be defined during the stakeholder needs and requirement definition process (Clause 6.4.1 ISO/IEC/IEEE 15288:2015) and continue to evolve during the development and operation of the system. Considerations include:
+-
 - Maximizing system availability to meet the operational requirements. This has to take into account the designed-in ==reliability== and ==maintainability== of the system and resources available.
 - Preserving ==system operating potential== through proper planning of ==system scheduled maintenance==. This requires a ==reliability-centered maintenance strategy== that incorporates ==preventive maintenance== in order to preempt failures, thereby extending the mean time between ==corrective maintenance==, as well as enhancing the availability of the system.
 - Segmenting ==maintenance activities== for potential outsourcing of non-critical activities to ==approved maintenance subcontractors== as to optimize scarce technical manpower resources and ==maintenance/repair turn-around times==.
