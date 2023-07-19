@@ -4,3 +4,4 @@ documentation:: Articulation and refinement of the various life cycle concepts c
 synonyms:: Acquisition concept, Deployment concept, Operational concept (OpsCon), Support concept, Retirement concept
 
 -
+-
