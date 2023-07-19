@@ -5,6 +5,7 @@ inputs:: [[Operation report]], [[Life cycle concepts]], [[Validated system]], [[
 outputs:: [[Maintenance record]], [[Maintenance constraints]], [[Maintenance procedure]], [[Maintenance report]], [[Maintenance enabling system]]
 activities:: [[Prepare for maintenance]], [[Perform maintenance]], [[Perform logistics support]], [[Manage results of maintenance and logistics]]
 synonyms:: system maintenance, maintaining operational capability, maintenance process
+relatedconcepts:: reliability, maintainability, system operating potential,
 
 - ![image.png](../assets/image_1689444662286_0.png)
 -
