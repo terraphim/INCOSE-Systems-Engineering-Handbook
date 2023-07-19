@@ -48,12 +48,14 @@ topic:: [[Maintenance]]
 		- This relationship with [[Project change requests]] is missing in the model.
 		  id:: 64b7d476-6618-4e6c-9a3c-72b3fa20b112
 - ## References
+  collapsed:: true
 	- ### Works Cited
+	  collapsed:: true
 		- ISO/IEC/IEEE. 2015.*[Systems and Software Engineering - System Life Cycle Processes](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288).*Geneva, Switzerland: International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers (IEEE). [ISO/IEC/IEEE 15288](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288):2015.
 	- ### Primary References
+	  collapsed:: true
 		- Blanchard, B.S. and W.J. Fabrycky. 2011. *[Systems Engineering and Analysis](https://sebokwiki.org/wiki/Systems_Engineering_and_Analysis),* 5th Edition. Upper Saddle River, NJ, USA: Prentice Hall.
 		- DAU. 2010. *[Defense Acquisition Guidebook (DAG)](https://sebokwiki.org/wiki/Defense_Acquisition_Guidebook_(DAG))*. Ft. Belvoir, VA, USA: Defense Acquisition University (DAU)/U.S. Department of Defense.
 		- INCOSE. 2012. *[INCOSE Systems Engineering Handbook](https://sebokwiki.org/wiki/INCOSE_Systems_Engineering_Handbook): A Guide for System Life Cycle Processes and Activities*. Version 3.2.2. San Diego, CA, USA: International Council on Systems Engineering (INCOSE), INCOSE-TP-2003-002-03.2.2.
 		- Institute of Engineers Singapore. 2009. *[Systems Engineering Body of Knowledge](https://sebokwiki.org/wiki/Systems_Engineering_Body_of_Knowledge_(Singapore)),* Provisional version 2.0. Singapore: Institute of Engineers Singapore.
 		  IISO/IEC/IEEE. 2015.*[Systems and Software Engineering - System Life Cycle Processes](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288).* Geneva, Switzerland: International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers (IEEE).[ISO/IEC/IEEE 15288](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288):2015.
--
