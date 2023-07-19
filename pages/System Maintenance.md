@@ -15,6 +15,7 @@ topic:: [[Maintenance]]
 	- Harnessing IT technology for ==maintenance management==. This involves rigorous and systematic ==capturing and tracking of operating and maintenance activities== to facilitate analysis and planning.
 	- ==Maintenance management== is concerned with the development and review of ==maintenance plans==, as well as securing and coordinating resources, such as budget, ==service parts provisioning==, and management of supporting tasks (e.g., contract administration, engineering support, and quality assurance). ==Maintenance planning== relies on ==level of repair analysis (LORA)== as a function of the ==system acquisition process==. Initial planning addresses actions and support necessary to ensure a minimum life cycle cost.
 - ## Process Approaches
+  collapsed:: true
 	- The purpose of the ==maintenance process== is to sustain the capability of a system to provide a service. This process monitors the system’s capability to deliver services, records problems for analysis, takes corrective, adaptive, perfective, and preventive actions, and confirms restored capability. As a result of the successful ==implementation of the maintenance process==:
 	- a ==maintenance strategy== is developed
 	- ==maintenance constraints== are provided as inputs to requirements
