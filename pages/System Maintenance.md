@@ -16,8 +16,8 @@ topic:: [[Maintenance]]
 - a ==maintenance strategy== is developed
 - ==maintenance constraints== are provided as inputs to requirements
 - ==replacement system elements== are made available
-- services meeting stakeholder requirements are sustained
-- the need for corrective design changes is reported
+- ==services meeting stakeholder requirements== are sustained
+- ==the need for corrective design changes== is reported
 - failure and lifetime data are recorded
 - The project should implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the maintenance process:
 - scheduled servicing, such as daily inspection/checks, servicing, and cleaning
