@@ -6,7 +6,7 @@ outputs:: [[Maintenance record]], [[Maintenance constraints]], [[Maintenance pro
 activities:: [[Prepare for maintenance]], [[Perform maintenance]], [[Perform logistics support]], [[Manage results of maintenance and logistics]]
 synonyms:: system maintenance, maintaining operational capability, maintenance process, system scheduled maintenance, preventive maintenance, corrective maintenance, maintenance activities, maintenance management  
 relatedconcepts:: reliability, maintainability, system operating potential,
-issues:: ((64b7d158-67cd-4af4-8880-a58f700beec6)),
+issues:: ((64b7d158-67cd-4af4-8880-a58f700beec6)), ((64b7d476-6618-4e6c-9a3c-72b3fa20b112))
 
 - ![image.png](../assets/image_1689444662286_0.png)
 -

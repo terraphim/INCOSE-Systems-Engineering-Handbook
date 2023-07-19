@@ -43,6 +43,7 @@ topic:: [[Maintenance]]
   collapsed:: true
 	- Adequate training must be provided for the ==technical personnel maintaining the system==. While initial training may have been provided during the deployment phase, additional personnel may need to be trained to cope with the increased number of systems being fielded, as well as to cater to staff turnover. Timely updates to training materials and trained personnel may be required as part of system upgrades and evolution. It is important to define the ==certification standards== and contract for the training materials as part of the ==supply agreement==.
 - ## Practical Considerations
+  collapsed:: true
 	- The ==organization responsible for maintaining the system== should have clear thresholds established to determine whether a change requested by end users, changes to correct latent defects, or changes required to fulfill the evolving mission are within the ==scope of a maintenance change== or require a more ==formal project== to step through the entire systems engineering life-cycle. Evaluation criteria to make such a decision could include cost, schedule, risk, or criticality characteristics.
 		- This relationship with [[Project change requests]] is missing in the model.
 		  id:: 64b7d476-6618-4e6c-9a3c-72b3fa20b112
