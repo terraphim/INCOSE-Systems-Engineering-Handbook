@@ -27,9 +27,9 @@ topic:: [[Maintenance]]
 - unscheduled servicing (carrying out more complicated fault isolation to the faulty replaceable unit and replacement of the failed unit)
 - ==minor modifications==
 - ==minor damage repairs==
-- major scheduled servicing (e.g., overhaul and corrosion treatment)
-- major repairs (beyond normal removal and replacement tasks)
-- The maintenance plan specifies the scheduled servicing tasks and intervals (preventive maintenance) and the unscheduled servicing tasks (adaptive or corrective maintenance). Tasks in the maintenance plan are allocated to the various maintenance agencies. A maintenance allocation chart is developed to tag the maintenance tasks to the appropriate maintenance agencies. These include: in-service or in-house work centers, approved contractors, affiliated maintenance or repair facilities, original equipment manufacturer (OEMs), etc. The maintenance plan also establishes the requirements for the support resources.
+- ==major scheduled servicing== (e.g., overhaul and corrosion treatment)
+- ==major repairs== (beyond normal removal and replacement tasks)
+- The ==maintenance plan== specifies the scheduled servicing tasks and intervals (preventive maintenance) and the unscheduled servicing tasks (adaptive or corrective maintenance). Tasks in the maintenance plan are allocated to the various ==maintenance agencies==. A ==maintenance allocation chart== is developed to tag the ==maintenance tasks== to the appropriate maintenance agencies. These include: in-service or in-house work centers, approved contractors, affiliated maintenance or repair facilities, original equipment manufacturer (OEMs), etc. The maintenance plan also establishes the requirements for the support resources.
 - Related activities such as resource planning, budgeting, performance monitoring, upgrades, longer term supportability, and sustenance also need to be managed. These activities are planned, managed, and executed over a longer time horizon and they concern the well-being of the system over the entire life cycle.
 - Proper maintenance of the system (including maintenance-free system designs) relies very much on the availability of support resources, such as support and test equipment (STE), technical data and documentation, personnel, spares, and facilities. These have to be factored in during the acquisition agreement process.
 - ## Training and Certification
