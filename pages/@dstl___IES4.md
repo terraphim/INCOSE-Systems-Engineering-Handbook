@@ -6,7 +6,7 @@ item-type:: [[computerProgram]]
 access-date:: 2023-05-18T06:22:29Z
 original-title:: dstl/IES4
 url:: https://github.com/dstl/IES4
-company:: Dstl
+organization:: Dstl
 library-catalog:: GitHub
 links:: [Local library](zotero://select/library/items/97L8BLWB), [Web library](https://www.zotero.org/users/6520516/items/97L8BLWB)
 

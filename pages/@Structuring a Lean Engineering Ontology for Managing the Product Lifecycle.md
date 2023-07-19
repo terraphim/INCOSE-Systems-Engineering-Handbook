@@ -1,4 +1,4 @@
-tags:: [[IT]], [[Ontology]], [[Organization]], [[PLM]], [[Processes]]
+tags:: [[IT]], [[Ontology]], [[organization]], [[PLM]], [[Processes]]
 date:: 2019
 publisher:: Springer International Publishing
 place:: Cham

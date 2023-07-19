@@ -7,7 +7,7 @@ item-type:: [[computerProgram]]
 access-date:: 2022-06-24T07:24:22Z
 original-title:: SysML-v2-API-Cookbook
 url:: https://github.com/Systems-Modeling/SysML-v2-API-Cookbook
-company:: SysML v2 Submission Team (SST)
+organization:: SysML v2 Submission Team (SST)
 library-catalog:: GitHub
 links:: [Local library](zotero://select/library/items/8YF2IDLB), [Web library](https://www.zotero.org/users/6520516/items/8YF2IDLB)
 

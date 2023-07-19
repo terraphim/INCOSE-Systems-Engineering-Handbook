@@ -7,7 +7,7 @@ access-date:: 2023-05-18T06:23:13Z
 rights:: Apache-2.0
 original-title:: Magma Core
 url:: https://github.com/gchq/MagmaCore
-company:: GCHQ
+organization:: GCHQ
 library-catalog:: GitHub
 links:: [Local library](zotero://select/library/items/REI768MU), [Web library](https://www.zotero.org/users/6520516/items/REI768MU)
 

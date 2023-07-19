@@ -5,7 +5,7 @@ item-type:: [[computerProgram]]
 access-date:: 2022-07-06T08:24:29Z
 original-title:: Apress Source Code
 url:: https://github.com/Apress/pro-excel-financial-modeling
-company:: Apress
+organization:: Apress
 library-catalog:: GitHub
 links:: [Local library](zotero://select/library/items/MVGMBTPA), [Web library](https://www.zotero.org/users/6520516/items/MVGMBTPA)
 
