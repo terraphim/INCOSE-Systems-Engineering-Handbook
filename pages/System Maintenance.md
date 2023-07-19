@@ -21,12 +21,12 @@ topic:: [[Maintenance]]
 - ==failure and lifetime data== are recorded
 - The project should implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the maintenance process:
 - ==scheduled servicing==, such as ==daily inspection/checks, servicing, and cleaning==
-- unscheduled servicing (carrying out fault detection and isolation to the faulty replaceable unit and replacement of the failed unit)
-- re-configuration of the system for different roles or functions
+- ==unscheduled servicing== (carrying out fault detection and isolation to the faulty replaceable unit and replacement of the failed unit)
+- ==re-configuration of the system== for different roles or functions
 - scheduled servicing (higher level scheduled servicing but below depot level)
 - unscheduled servicing (carrying out more complicated fault isolation to the faulty replaceable unit and replacement of the failed unit)
-- minor modifications
-- minor damage repairs
+- ==minor modifications==
+- ==minor damage repairs==
 - major scheduled servicing (e.g., overhaul and corrosion treatment)
 - major repairs (beyond normal removal and replacement tasks)
 - The maintenance plan specifies the scheduled servicing tasks and intervals (preventive maintenance) and the unscheduled servicing tasks (adaptive or corrective maintenance). Tasks in the maintenance plan are allocated to the various maintenance agencies. A maintenance allocation chart is developed to tag the maintenance tasks to the appropriate maintenance agencies. These include: in-service or in-house work centers, approved contractors, affiliated maintenance or repair facilities, original equipment manufacturer (OEMs), etc. The maintenance plan also establishes the requirements for the support resources.
