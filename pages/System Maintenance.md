@@ -18,9 +18,9 @@ topic:: [[Maintenance]]
 - ==replacement system elements== are made available
 - ==services meeting stakeholder requirements== are sustained
 - ==the need for corrective design changes== is reported
-- failure and lifetime data are recorded
+- ==failure and lifetime data== are recorded
 - The project should implement the following activities and tasks in accordance with applicable organization policies and procedures with respect to the maintenance process:
-- scheduled servicing, such as daily inspection/checks, servicing, and cleaning
+- ==scheduled servicing==, such as ==daily inspection/checks, servicing, and cleaning==
 - unscheduled servicing (carrying out fault detection and isolation to the faulty replaceable unit and replacement of the failed unit)
 - re-configuration of the system for different roles or functions
 - scheduled servicing (higher level scheduled servicing but below depot level)
