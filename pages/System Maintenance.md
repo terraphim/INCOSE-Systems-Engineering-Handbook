@@ -1,5 +1,6 @@
 type:: [[article]]
 source:: [[@Guide to the Systems Engineering Body of Knowledge (SEBoK version 2.8)]]
+topic:: [[Maintenance]]
 
 - **Lead Authors:** *Scott Jackson, Brian Gallagher*, **Contributing Author:** *David Dorgan*
 - ==System Maintenance== planning begins early in the acquisition process with the development of a ==maintenance concept==. ==Maintenance planning== is conducted to evolve and establish requirements and tasks to be accomplished for achieving, restoring, and ==maintaining operational capability== for the life of the system. For a system to be sustained throughout its system life cycle, the ==maintenance process== has to be executed concurrently with the operations process (ISO/IEC/IEEE 15288, 2015, Clause 6.4.9).
