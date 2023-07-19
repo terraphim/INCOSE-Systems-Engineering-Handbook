@@ -18,7 +18,7 @@ topic:: [[Maintenance]]
 	- The purpose of the ==maintenance process== is to sustain the capability of a system to provide a service. This process monitors the system’s capability to deliver services, records problems for analysis, takes corrective, adaptive, perfective, and preventive actions, and confirms restored capability. As a result of the successful ==implementation of the maintenance process==:
 	- a ==maintenance strategy== is developed
 	- ==maintenance constraints== are provided as inputs to requirements
-		- Missing in the current [[]]
+		- This relation is missing in the current [[@Digital Systems Engineering Process Model Version: 1.0]].
 	- ==replacement system elements== are made available
 	- ==services meeting stakeholder requirements== are sustained
 	- ==the need for corrective design changes== is reported
