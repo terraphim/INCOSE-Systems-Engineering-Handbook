@@ -4,7 +4,7 @@ documentation:: Deploying, configuring and operating IT Infrastructure.
 sfiacode::
 sfiaskill::
 sfiacategory::
-sfiacategory::
+sfiasubcategory::
 sfiaguidancenotes::
 sfialevel4description::
 sfialevel5description::
