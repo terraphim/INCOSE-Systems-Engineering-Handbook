@@ -4,7 +4,7 @@ documentation:: Installing, configuring, monitoring, maintaining and improving t
 sfiacode::
 sfiaskill::
 sfiacategory::
-sfiacategory::
+sfiasubcategory::
 sfiaguidancenotes::
 sfialevel4description::
 sfialevel5description::
