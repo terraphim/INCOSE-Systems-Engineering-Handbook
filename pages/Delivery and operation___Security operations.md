@@ -5,19 +5,14 @@ sfiacode:: [[SCAD]]
 sfiaskill:: [[Security operations]]
 sfiacategory:: [[Delivery and operation]]
 sfiasubcategory::  [[Security services]]
-sfiaguidancenotes:: 
+sfiaguidancenotes:: Activities may include — but are not limited to: providing advice and guidance on the implementation of security controls, defining and reviewing access rights and privileges, authorising and monitoring of access to IT facilities or infrastructure, investigating unauthorised access, routine vulnerability assessments,     
 sfialevel4description::
 sfialevel5description::
 sfialevel6description::
 sfialevel7description::
 
-- Activities may include — but are not limited to:
-- providing advice and guidance on the implementation of security controls
-  defining and reviewing access rights and privileges
-  authorising and monitoring of access to IT facilities or infrastructure
-  investigating unauthorised access
-  routine vulnerability assessments
-  monitoring violations of security policies
+-
+- monitoring violations of security policies
   ensuring compliance with relevant legislation
   monitoring and analysing relevant logs, alerts and events
   responding to incidents submitted via tickets or phone
