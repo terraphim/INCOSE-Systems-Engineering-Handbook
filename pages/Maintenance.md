@@ -9,6 +9,6 @@ relatedconcepts:: reliability, maintainability, system operating potential,
 issues:: ((64b7d158-67cd-4af4-8880-a58f700beec6)), ((64b7d476-6618-4e6c-9a3c-72b3fa20b112))
 sfiaskills:: [[Strategy and architecture/Solution architecture]], [[Strategy and architecture/Methods and tools]], [[Development and implementation/Radio frequency engineering]], [[Development and implementation/Database administration]]
 
-- ![image.png](../assets/image_1689444662286_0.png){:height 276, :width 778}
+- ![image.png](../assets/image_1689444662286_0.png){:height 257, :width 722}
 -
 -
