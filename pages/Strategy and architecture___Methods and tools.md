@@ -4,7 +4,7 @@ documentation:: Ensuring methods and tools are adopted and used effectively thro
 sfiacode::
 sfiaskill::
 sfiacategory::
-sfiacategory::
+sfiasubcategory::
 sfiaguidancenotes::
 sfialevel4description::
 sfialevel5description::

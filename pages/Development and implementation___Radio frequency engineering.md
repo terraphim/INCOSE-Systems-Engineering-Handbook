@@ -11,9 +11,3 @@ sfialevel3description:: Deploys, sets up, tunes and calibrates RF devices and so
 sfialevel4description:: Investigates and resolves system-wide fault conditions using a wide range of diagnostic tools and techniques. Reconfigures equipment to circumvent temporary outages. Specifies, selects and integrates RF devices in a system. Defines internal communication protocols for transmission over the available frequencies. Reconfigures devices and software to optimise performance.
 sfialevel5description:: Monitors system performance, recommends equipment modifications and changes to operating procedures, servicing methods and schedules. Develops maintenance schedules and procedures. Approves equipment upgrades and modifications. Reviews industry and national standards on relevant RF protocols and regulations. Measures and evaluates the effectiveness of RF devices and software.
 sfialevel6description:: Provides overall direction and leadership for the use of RF based devices and software. Specifies requirements for radio frequency equipment performance and sets maintenance policy. Identifies opportunities to exploit new technologies and improve existing technologies and practices. Develops effective implementation and procurement strategies.
-
--
--
--
--
--
