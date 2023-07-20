@@ -2,4 +2,5 @@ role:: [[Systems engineer]], [[Program manager]]
 profile:: [CMMI Institute - Dr. Brian P. Gallagher](https://www.cmmiinstitute.com/capability-counts/2019/speakers/dr-brian-p-gallagher), [Brian Gallagher Biography CACI](http://c4i.gmu.edu/eventsInfo/reviews/2014/abstracts_bios/Brian%20Gallagher%20Bio.pdf), [Meeting Mission and Enterprise Customers’ Most Critical Needs | CACI](https://www.caci.com/about-caci)
  organization:: [[CACI International Inc.]]
 
--
+- ## About
+	- Dr. Gallagher is Senior Vice President of Operational Excellence for CACI International Inc, a $4 billion information systems solutions and services company. In this role, he is responsible for CACI’s integrated program management and delivery methods, process effectiveness, quality assurance, and continuous improvement initiatives. Previously, Brian was the Director of Engineering and Mission Assurance for Northrop Grumman’s Intelligence and Cyber Divisions and served as a Director at the Software Engineering Institute leading teams serving the Department of Defense and other government agencies. Brian is a retired Air Force Officer and received his PhD from Colorado State University.
