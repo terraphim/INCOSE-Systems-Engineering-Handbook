@@ -9,11 +9,9 @@ sfiaguidancenotes:: Activities may include — but are not limited to: providing
 sfialevel1description:: Performs simple security administration tasks. Maintains relevant records and documentation.
 sfialevel2description:: Receives and responds to routine requests for security support. Maintains records and advises relevant persons of actions taken. Assists in the investigation and resolution of issues relating to access controls and security systems. Documents incident and event information and produces incident, exception, and management reports.
 sfialevel3description:: Investigates minor security breaches in accordance with established procedures. Assists users in defining their access rights and privileges. Performs non-standard operational security tasks. Resolves security events and operational security issues.
-sfialevel4description:: Maintains operational security processes and checks that all requests for support are dealt with according to agreed procedures. 
-Provides advice on defining access rights and the application and operation of elementary physical, procedural and technical security controls.
-Investigates security breaches in accordance with established procedures and recommends required actions. Provides support and checks that corrective actions are implemented.
-sfialevel5description::
-sfialevel6description::
-sfialevel7description::
+sfialevel4description:: Maintains operational security processes and checks that all requests for support are dealt with according to agreed procedures. Provides advice on defining access rights and the application and operation of elementary physical, procedural and technical security controls. Investigates security breaches in accordance with established procedures and recommends required actions. Provides support and checks that corrective actions are implemented.
+sfialevel5description:: Monitors the application and compliance of security operations procedures. Reviews actual or potential security breaches and vulnerabilities and ensures that they are promptly and thoroughly investigated. Recommends actions and appropriate control improvements. Ensures that security records are accurate and complete and that requests for support are dealt with according to agreed procedures. Contributes to the creation and maintenance of policy, standards, procedures and documentation for security.
+sfialevel6description:: Develops policies, standards, processes, guidelines for ensuring the physical and electronic security of automated systems. Ensures that the policy and standards for security operations are fit for purpose, current and are correctly implemented. Reviews new business proposals and provides specialist advice on security issues and implications.
+sfialevel7description:: null
 
 -
