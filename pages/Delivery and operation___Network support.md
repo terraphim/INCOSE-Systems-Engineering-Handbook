@@ -5,7 +5,8 @@ sfiacode:: [[NTAS]]
 sfiaskill:: [[Network support]]
 sfiacategory:: [[Delivery and operation]]
 sfiasubcategory:: [[Technology management]]
-sfiaguidancenotes::
+sfiaguidancenotes:: Activities may include — but are not limited to: monitoring network performance; investigating and resolving problems
+
 sfialevel4description::
 sfialevel5description::
 sfialevel6description::
