@@ -4,7 +4,7 @@ documentation::
 sfiacode::
 sfiaskill::
 sfiacategory::
-sfiacategory::
+sfiasubcategory::
 sfiaguidancenotes::
 sfialevel4description::
 sfialevel5description::
