@@ -4,7 +4,7 @@ documentation:: Developing and communicating a multi-dimensional solution archit
 sfiacode::
 sfiaskill::
 sfiacategory::
-sfiacategory::
+sfiasubcategory::
 sfiaguidancenotes::
 sfialevel4description::
 sfialevel5description::
