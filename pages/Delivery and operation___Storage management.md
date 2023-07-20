@@ -6,8 +6,10 @@ sfiaskill:: [[Storage management]]
 sfiacategory:: [[Delivery and operation]]
 sfiasubcategory:: [[Technology management]]
 sfiaguidancenotes:: Storage management includes managing local or external storage such as direct access storage (DAS), network access storage (NAS), storage area networks (SAN) and cloud-based storage. Storage management technologies  and processes includes — but are not limited to — virtualisation, replication, mirroring, security, compression, traffic analysis, process automation, storage provisioning and related techniques. Activities may include — but are not limited to: backup, archiving and recovery of data; ensuring compliance with regulatory and security requirements; addressing business goals based on information value, data classification, recovery point and recovery time objectives.
+sfialevel3description:: Performs regular high-performance, scalable backups and restores on a schedule and tracks offsite storage. Implements documented configurations for allocation of storage, installation and maintenance of secure storage systems using the agreed operational procedures.
+Identifies operational problems and contributes to their resolution. 
 
-sfialevel4description::
+sfialevel4description:: 
 sfialevel5description::
 sfialevel6description::
 sfialevel7description::
