@@ -10,10 +10,8 @@ sfialevel2description:: Uses agreed procedures to create and maintain an accurat
 sfialevel3description:: Applies tools, techniques and processes to create and maintain an accurate asset register. Produces reports and analysis to support asset management activities and aid decision-making.
 sfialevel4description:: Controls assets in one or more significant areas ensuring that administration of full life cycle of assets is carried out. Produces and analyses registers and histories of authorised assets and verifies that all these assets are in a known state and location. Acts to highlight and resolve potential instances of unauthorised assets.
 sfialevel5description:: Manages and maintains the service compliance of  IT and service assets in line with business and regulatory requirements. Identifies, assesses and communicates associated risks. Ensures asset controllers, infrastructure teams and the business co-ordinate and optimise value, maintain control and maintain appropriate legal compliance.
-sfialevel6description:: Sets the strategy for asset management across the organisation. 
-Communicates the policy, governance, scope, and roles involved in asset management. 
-Promotes awareness of and commitment to the role of asset management in the continuing economic and effective provision of services. Provides information and advice on complex asset management issues. Initiates impact assessment arising from decisions to obtain, change or continue the possession or use of an asset, system or service.
-sfialevel7description::
+sfialevel6description:: Sets the strategy for asset management across the organisation. Communicates the policy, governance, scope, and roles involved in asset management. Promotes awareness of and commitment to the role of asset management in the continuing economic and effective provision of services. Provides information and advice on complex asset management issues. Initiates impact assessment arising from decisions to obtain, change or continue the possession or use of an asset, system or service.
+sfialevel7description:: null
 
 -
 -
