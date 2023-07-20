@@ -5,5 +5,10 @@ sfiacode::
 sfiaskill::
 sfiacategory::
 sfiacategory::
+sfiaguidancenotes::
+sfialevel4description::
+sfialevel5description::
+sfialevel6description::
+sfialevel7description::
 
 -
