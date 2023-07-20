@@ -9,4 +9,4 @@ url:: https://sfia-online.org/en
 links:: [Local library](zotero://select/library/items/QIWI6R3S), [Web library](https://www.zotero.org/users/6520516/items/QIWI6R3S)
 
 - [[Abstract]]
-	- Exploring the Skills Framework for the Information Age
+	- Exploring the Skills Framework for the Information Age.
