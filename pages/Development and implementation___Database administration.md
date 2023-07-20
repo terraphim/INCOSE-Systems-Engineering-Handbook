@@ -9,11 +9,6 @@ sfiaguidancenotes:: Database administration may support live operational databas
 sfialevel2description:: Assists in database support activities.
 sfialevel3description:: Performs standard database maintenance and administration tasks. Uses database management system software and tools to collect performance statistics.
 sfialevel4description:: Develops and configures tools to enable automation of database administration tasks. Monitors performance statistics and create reports. Identify and investigates complex problems and issues and recommends corrective actions. Performs routine configuration, installation, and reconfiguration of database and related products.
-sfialevel5description:: Identifies, evaluates and manages the adoption of database administration tools and processes, including automation. 
-Develops and maintains procedures and documentation for databases. Contributes to the setting of standards for definition, security and integrity of database objects and ensures conformance to these standards. 
-Manages database configuration including installing and upgrading software and maintaining relevant documentation. 
-Monitors database activity and resource usage. Optimises database performance and plans for forecast resource needs.
-sfialevel6description::
-sfialevel7description::
+sfialevel5description:: Identifies, evaluates and manages the adoption of database administration tools and processes, including automation. Develops and maintains procedures and documentation for databases. Contributes to the setting of standards for definition, security and integrity of database objects and ensures conformance to these standards. Manages database configuration including installing and upgrading software and maintaining relevant documentation. Monitors database activity and resource usage. Optimises database performance and plans for forecast resource needs.
 
 -
