@@ -9,12 +9,13 @@ sfiaguidancenotes:: The overall purpose of certification of persons is to recogn
 documenting security policies and procedures, including non-disclosure or other agreements not to release confidential examination materials or participate in fraudulent practices
 implementing arrangements for certified persons to inform the certification body of anything affecting capability to continue meeting certification requirements.
 sfialevel2description:: Processes applications for certification. Logs complaints.
-sfialevel3description:: Issues certifications or credentials and maintains and retains certification records. 
-Maintains information on the certification scheme and a general description of the certification process. 
-Designs, creates, develops, customises and maintains credentials or certificates. 
-Responds to public information requests. Analyses and takes action on complaints or issues.
-sfialevel4description:: 
-sfialevel5description::
+sfialevel3description:: Issues certifications or credentials and maintains and retains certification records. Maintains information on the certification scheme and a general description of the certification process. Designs, creates, develops, customises and maintains credentials or certificates. Responds to public information requests. Analyses and takes action on complaints or issues.
+sfialevel4description:: Documents instructions for all personnel involved in certification, including legally enforceable agreements with any third parties involved in the process. 
+Identifies threats to impartiality by analysing, mitigating or eliminating potential conflict of interests arising from certification activities. Implements the procedures for certification of individuals for the delivery of training. Determines the merits of complaints and any remedial actions required.
+sfialevel5description:: Defines a certification or accreditation scheme, including organisation structure, duties, responsibilities and authorities. 
+Determines necessary competence to perform certification functions. Designs and implements the examiner or assessor selection and approval process. 
+Monitors performance and judgements, and agrees corrective actions. Plans and provides adequate premises, equipment and resources. 
+Documents policies and procedures for maintenance and release of information, including consideration of any legal agreements for confidentiality.
 sfialevel6description::
 sfialevel7description::
 
