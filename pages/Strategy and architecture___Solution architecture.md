@@ -5,10 +5,12 @@ sfiacode:: [[ARCH]]
 sfiaskill:: [[Solution architecture]]
 sfiacategory:: [[Strategy and architecture]]
 sfiasubcategory:: [[Strategy and planning]]
-sfiaguidancenotes:: Activities may include — but are not limited to: defining the planned operation and maintenance of the solution within a production environment — include changes to services, process, organisation, and operating models as well as technology; ensuring that existing and planned solution components are compatible with relevant architectures, strategies, policies, standards and practices; considering requirements for security, privacy and testing of solutions; taking account of relevant architectures, strategies, policies, standards and practices 
-
-sfialevel4description::
-sfialevel5description::
+sfiaguidancenotes:: Activities may include — but are not limited to: defining the planned operation and maintenance of the solution within a production environment — include changes to services, process, organisation, and operating models as well as technology; ensuring that existing and planned solution components are compatible with relevant architectures, strategies, policies, standards and practices; considering requirements for security, privacy and testing of solutions; taking account of relevant architectures, strategies, policies, standards and practices; identifying appropriate cloud services; developing roadmaps to migrate components to cloud services; developing and communicating an implementation roadmap; providing guidance and risk-based governance to support solution implementation including managing requests for changes and deviations from specifications.
+sfialevel4description:: Contributes to the development of solution architectures in specific business, infrastructure or functional areas. Identifies and evaluates alternative architectures and the trade-offs in cost, performance and scalability. Determines and documents architecturally significant decisions. Produces specifications of cloud-based or on-premises components, tiers and interfaces, for translation into detailed designs using selected services and products. Supports projects or change initiatives through the preparation of technical plans and application of design principles. Aligns solutions with enterprise and solution architecture standards (including security).
+sfialevel5description:: Leads the development of solution architectures in specific business, infrastructure or functional areas. 
+ Leads the preparation of technical plans and ensures that appropriate technical resources are made available. Ensures that appropriate tools and methods are available, understood and employed in architecture development.
+Provides technical guidance and governance on solution development and integration. Evaluates requests for changes and deviations from specifications and recommends actions.
+Ensures that relevant technical strategies, policies, standards and practices (including security) are applied correctly.
 sfialevel6description::
 sfialevel7description::
 
