@@ -1,7 +1,8 @@
 type:: [[TerraphimRole]]
 topic:: [[Maintenance]]
-cvposition:: 
-startdate::
+cvposition:: [[Project manager R&D]]
+startdate:: May
+2011
 duration::
 acquirer:: for whom was the job
 customer:: who accepted the result?
