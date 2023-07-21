@@ -8,6 +8,8 @@ client:: who used the result?
 end-user:: who operated the final result to get desired effects?
 end-user_material:: workplace, process, systems that were involved in the end-user activity.
 theme:: subject of the contract, work order, or other agreement
+pivot:: changes in the subject along the execution of the contract or performing an activity
+affectedlocations::
 
 - ![image_1689919930406_0.png](../assets/image_1689919930406_0_1689929729488_0.png)
 - **Actor** - Participant that is the instigator of an event. - Not currently instantiated, superordinate role in hierarchy only.
