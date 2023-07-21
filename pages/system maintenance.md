@@ -10,6 +10,8 @@ end-user_material:: workplace, process, systems that were involved in the end-us
 theme:: subject of the contract, work order, or other agreement
 pivot:: changes in the subject along the execution of the contract or performing an activity
 affectedlocations:: places, that where affected by changes because of results of the project or activity
+affectedassets:: tools, infrastructure, and systems that changed due to performed activity
+participants::
 
 - ![image_1689919930406_0.png](../assets/image_1689919930406_0_1689929729488_0.png)
 - **Actor** - Participant that is the instigator of an event. - Not currently instantiated, superordinate role in hierarchy only.
