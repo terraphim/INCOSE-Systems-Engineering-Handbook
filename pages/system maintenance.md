@@ -1,5 +1,6 @@
 type:: [[TerraphimRole]]
 topic:: [[Maintenance]]
+position::
 startdate::
 duration::
 acquirer:: for whom was the job
