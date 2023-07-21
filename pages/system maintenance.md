@@ -1,6 +1,8 @@
 type:: [[TerraphimRole]]
 topic:: [[Maintenance]]
 startdate::
+duration::
+acquirer:: for whom was the job
 
 - ![image_1689919930406_0.png](../assets/image_1689919930406_0_1689929729488_0.png)
 - **Actor** - Participant that is the instigator of an event. - Not currently instantiated, superordinate role in hierarchy only.
