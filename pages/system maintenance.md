@@ -1,4 +1,4 @@
-type:: [[TerraphimRole]]
+type:: [[TerraphimRole]]???
 topic:: [[Maintenance]]
 cvposition:: [[Project manager R&D]].
 startdate:: May 2011
@@ -18,4 +18,3 @@ result:: all maintenance deliverables were successfully accepted.
 evidence:: [[X10 modular LED project]]
 
 - ![image_1689919930406_0.png](../assets/image_1689919930406_0_1689929729488_0.png)
--

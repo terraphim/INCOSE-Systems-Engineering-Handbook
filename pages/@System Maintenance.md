@@ -6,7 +6,6 @@ topic:: [[Maintenance]]
 - ==System Maintenance== planning begins early in the acquisition process with the development of a ==maintenance concept==. ==Maintenance planning== is conducted to evolve and establish requirements and tasks to be accomplished for achieving, restoring, and ==maintaining operational capability== for the life of the system. For a system to be sustained throughout its system life cycle, the ==maintenance process== has to be executed concurrently with the ==operations process== (ISO/IEC/IEEE 15288:2015, Clause 6.4.9).
 - ![image.png](../assets/image_1689762871422_0.png){:height 325, :width 711}
 - ## Overview
-  collapsed:: true
 	- The ==initial requirements for maintenance== have to be defined during the stakeholder needs and requirement definition process (Clause 6.4.1 ISO/IEC/IEEE 15288:2015) and continue to evolve during the development and operation of the system. Considerations include:
 		- ![image.png](../assets/image_1689763274010_0.png)
 	- Maximizing system availability to meet the operational requirements. This has to take into account the designed-in ==reliability== and ==maintainability== of the system and resources available.
@@ -15,7 +14,6 @@ topic:: [[Maintenance]]
 	- Harnessing IT technology for ==maintenance management==. This involves rigorous and systematic ==capturing and tracking of operating and maintenance activities== to facilitate analysis and planning.
 	- ==Maintenance management== is concerned with the development and review of ==maintenance plans==, as well as securing and coordinating resources, such as budget, ==service parts provisioning==, and management of supporting tasks (e.g., contract administration, engineering support, and quality assurance). ==Maintenance planning== relies on ==level of repair analysis (LORA)== as a function of the ==system acquisition process==. Initial planning addresses actions and support necessary to ensure a minimum life cycle cost.
 - ## Process Approaches
-  collapsed:: true
 	- The purpose of the ==maintenance process== is to sustain the capability of a system to provide a service. This process monitors the system’s capability to deliver services, records problems for analysis, takes corrective, adaptive, perfective, and preventive actions, and confirms restored capability. As a result of the successful ==implementation of the maintenance process==:
 	- a ==maintenance strategy== is developed
 	- ==maintenance constraints== are provided as inputs to requirements
@@ -40,17 +38,13 @@ topic:: [[Maintenance]]
 	- Related activities such as ==resource planning, budgeting, performance monitoring, upgrades, longer term supportability, and sustenance== also need to be managed. These activities are planned, managed, and executed over a longer time horizon and they concern the well-being of the system over the entire life cycle.
 	- Proper maintenance of the system (including maintenance-free system designs) relies very much on the ==availability of support resources, such as support and test equipment (STE), technical data and documentation, personnel, spares, and facilities==. These have to be factored in during the ==acquisition agreement process==.
 - ## Training and Certification
-  collapsed:: true
 	- Adequate training must be provided for the ==technical personnel maintaining the system==. While initial training may have been provided during the deployment phase, additional personnel may need to be trained to cope with the increased number of systems being fielded, as well as to cater to staff turnover. Timely updates to training materials and trained personnel may be required as part of system upgrades and evolution. It is important to define the ==certification standards== and contract for the training materials as part of the ==supply agreement==.
 - ## Practical Considerations
-  collapsed:: true
 	- The ==organization responsible for maintaining the system== should have clear thresholds established to determine whether a change requested by end users, changes to correct latent defects, or changes required to fulfill the evolving mission are within the ==scope of a maintenance change== or require a more ==formal project== to step through the entire systems engineering life-cycle. Evaluation criteria to make such a decision could include cost, schedule, risk, or criticality characteristics.
 		- This relationship with [[Project change requests]] is missing in the model.
 		  id:: 64b7d476-6618-4e6c-9a3c-72b3fa20b112
 - ## References
-  collapsed:: true
 	- ### Works Cited
-	  collapsed:: true
 		- ISO/IEC/IEEE. 2015.*[Systems and Software Engineering - System Life Cycle Processes](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288).*Geneva, Switzerland: International Organization for Standardization (ISO)/International Electrotechnical Commission (IEC), Institute of Electrical and Electronics Engineers (IEEE). [ISO/IEC/IEEE 15288](https://sebokwiki.org/wiki/ISO/IEC/IEEE_15288):2015.
 	- ### Primary References
 	  collapsed:: true
