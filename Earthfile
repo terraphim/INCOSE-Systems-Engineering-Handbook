@@ -22,5 +22,5 @@ run:
   FROM github.com/applied-knowledge-systems/aws_op_earthly+login-op
   COPY +prepare/data /data
   ENV AWS_REGION="eu-west-2"
-  RUN --no-cache --secret OP_CONNECT_HOST --secret OP_CONNECT_TOKEN op run --env-file="/workspace/aws.env" -- aws s3 sync /data/ s3://cert-systems-engineer/ --acl public-read
+  RUN --no-cache --secret OP_CONNECT_HOST --secret OP_CONNECT_TOKEN op run --env-file="/workspace/aws.env" -- aws s3 sync /data/ s3://system-operator/ --acl public-read
       
