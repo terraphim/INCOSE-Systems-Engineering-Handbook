@@ -13,4 +13,3 @@ terraphimrole:: [[system maintenance]]
 
 - ![image.png](../assets/image_1689444662286_0.png){:height 257, :width 722}
 -
--
