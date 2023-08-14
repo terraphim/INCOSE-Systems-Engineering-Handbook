@@ -5,8 +5,8 @@ FROM ubuntu:18.04
 
 publish-pipeline:
   PIPELINE
-  TRIGGER push master
-  TRIGGER pr master
+  TRIGGER push main
+  TRIGGER pr main
   BUILD +run
 
 prepare: 
