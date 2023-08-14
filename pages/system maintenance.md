@@ -1,4 +1,6 @@
-type:: [[TerraphimRole]]???
+type:: [[Skill evidence]]
+skill:: [[Maintenance]], [[Transition]], [[Operation]] 
+person:: [[Aleksandr Turkhanov]] 
 topic:: [[Maintenance]]
 cvposition:: [[Project manager R&D]].
 startdate:: May 2011

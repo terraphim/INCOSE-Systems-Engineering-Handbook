@@ -348,6 +348,8 @@
  :editor/preferred-pasting-file? true
  :journal/page-title-format "E, dd.MM.yyyy"
  :zotero/settings-v2 {"default" {:type-id "6520516", :page-insert-prefix "@", :overwrite-mode? false}}
+ :editor/logical-outdenting? true
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

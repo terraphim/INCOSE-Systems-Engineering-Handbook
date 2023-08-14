@@ -1,4 +1,4 @@
-type:: [[Person]]
+type:: [[person]]
 profile:: https://www.linkedin.com/in/robert-cloutier-ph-d-648611/
 
 - ## Generated skill taxonomy

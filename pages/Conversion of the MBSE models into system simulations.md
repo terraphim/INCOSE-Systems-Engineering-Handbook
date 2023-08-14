@@ -1,2 +1,2 @@
-type:: [[Skill]]
+type:: [[skill]]
 widerskill:: [[MBSE]]
