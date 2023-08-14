@@ -32,7 +32,7 @@
  ;; :ui/show-brackets? true
 
  ;; Enable showing the body of blocks when referencing them.
- :ui/show-full-blocks? false
+ :ui/show-full-blocks? true
 
  ;; Expand block references automatically when zoom-in
  :ui/auto-expand-block-refs? true
@@ -48,10 +48,10 @@
  ;; :feature/enable-journals? true
 
  ;; Enable flashcards
- ;; :feature/enable-flashcards? true
+ ;; :feature/enable-flashcards? false
 
  ;; Enable Whiteboards
- ;; :feature/enable-whiteboards? true
+ ;; :feature/enable-whiteboards? false
 
  ;; Disable the built-in Scheduled tasks and deadlines query
  ;; :feature/disable-scheduled-and-deadline-query? true
@@ -344,7 +344,12 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :graph/settings {:builtin-pages? false, :journal? true}
+ :graph/settings {:builtin-pages? false, :journal? false}
+ :editor/preferred-pasting-file? true
+ :journal/page-title-format "yyyy-MM-dd"
+ :zotero/settings-v2 {"default" {:type-id "6520516", :page-insert-prefix "@", :overwrite-mode? false}}
+ :editor/logical-outdenting? true
+ :publishing/all-pages-public? true
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"
