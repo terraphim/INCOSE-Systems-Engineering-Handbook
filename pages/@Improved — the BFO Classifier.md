@@ -1,5 +1,5 @@
 date:: [[Thu, 29.06.2023]]
-title:: @**Improved** — the BFO Classifier
+title:: @Improved — the BFO Classifier
 item-type:: [[blogPost]]
 access-date:: 2023-07-01T09:21:40Z
 original-title:: **Improved** — the BFO Classifier

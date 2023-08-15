@@ -121,75 +121,75 @@ public:: true
 			- [(PDF) Model Based Systems Engineering – The State of the Nation (researchgate.net)](https://www.researchgate.net/publication/279960037_Model_Based_Systems_Engineering_-_The_State_of_the_Nation)
 			- [James Towers (researchgate.net)](https://www.researchgate.net/profile/James-Towers)
 	- ## Specific to standard terms mapping
-		- [[*Perceived value of MBSE]]
+		- [[Perceived value of MBSE]]
 			- [[Information management strategy]] - only one candidate for wider term
-		- [[*Perception of ROI from MBSE]]
+		- [[Perception of ROI from MBSE]]
 		  collapsed:: true
 			- [[Organizational process performance measures needs]]
 			- [[Project performance measures needs]] - two candidates for a wider term, but the user selects only one of them
-		- [[*Adoption of MBSE]]
+		- [[Adoption of MBSE]]
 		  collapsed:: true
 			- [[Project tailoring strategy]]
-		- [[*Piloting MBSE]]
+		- [[Piloting MBSE]]
 		  collapsed:: true
 			- [[Establish the infrastructure]]
-		- [[*Adopting MBSE]]
+		- [[Adopting MBSE]]
 		  collapsed:: true
-			- The same as [[*Adoption of MBSE]]
-		- [[*Explicit management support]]
+			- The same as [[Adoption of MBSE]]
+		- [[Explicit management support]]
 		  collapsed:: true
 			- [[Organization strategic plan]]
-		- [[*Buried in the issues of managing their current systems]]
+		- [[Buried in the issues of managing their current systems]]
 		  collapsed:: true
 			- Not a skill, but useful to think in terms of achievement "Able to cut through the issues of managing current system."
-		- [[*Verification planning and execution]]
+		- [[Verification planning and execution]]
 		  collapsed:: true
 			- [[Verification]]
-		- [[*Detail design and analysis]]
+		- [[Detail design and analysis]]
 		  collapsed:: true
 			- [[Design Definition]]
-		- [[*Requirements flowdown and traceability]]
+		- [[Requirements flowdown and traceability]]
 		  collapsed:: true
 			- [[System Requirements Definition]]
-		- [[*Trade studies]]
+		- [[Trade studies]]
 		  collapsed:: true
 			- [[Decision Management]]
-		- [[*Architecture modeling]]
+		- [[Architecture modeling]]
 		  collapsed:: true
 			- [[Architecture Definition]]
-		- [[*Conceptual design]]
+		- [[Conceptual design]]
 		  collapsed:: true
 			- [[Stakeholder Needs and Requirements Definition]]
-		- [[*Extracting models from code]]
+		- [[Extracting models from code]]
 		  collapsed:: true
 			- [[Knowledge Management]]
-		- [[*Autonomy given to the MBSE team]]
-		- [[*Implement MBSE before starting the projects]]
+		- [[Autonomy given to the MBSE team]]
+		- [[Implement MBSE before starting the projects]]
 		  collapsed:: true
 			- The same as piloting MBSE.
-		- [[*Cumbersome to maintain the models]]
+		- [[Cumbersome to maintain the models]]
 		  collapsed:: true
 			- Not clear where to put it.
-		- [[*Operating data]]
+		- [[Operating data]]
 		  collapsed:: true
-			- [[*Operating product data]]
-				- [[*Operating document-centric product data]]
-		- [[*Translating legacy document-centric product data to a model-centric approach]]
+			- [[Operating product data]]
+				- [[Operating document-centric product data]]
+		- [[Translating legacy document-centric product data to a model-centric approach]]
 		  collapsed:: true
 			- [[Knowledge Management]]
-		- [[*Modeling the changes from a prior project]]
+		- [[Modeling the changes from a prior project]]
 		  collapsed:: true
 			-
-		- [[*Document-based regulatory system]]
-		- [[*Selling systems engineering]]
+		- [[Document-based regulatory system]]
+		- [[Selling systems engineering]]
 		  collapsed:: true
 			- [[Organization tailoring strategy]]
-		- [[*Sell MBSE]]
+		- [[Sell MBSE]]
 		  collapsed:: true
 			- we have learned to just sell systems engineering; MBSE is the way we do it
-		- [[*Object-oriented systems engineering methodology (OOSEM)]]
-		- [[*SysML]]
-		- [[*CertSAFE]]
-		- [[*Conversion of the MBSE models into system simulations]]
-		- [[*MBSE effort in collaboration with customer or prime contractors or subcontractors]]
-		- [[*Execute MBSE-based projects]]
+		- [[Object-oriented systems engineering methodology (OOSEM)]]
+		- [[SysML]]
+		- [[CertSAFE]]
+		- [[Conversion of the MBSE models into system simulations]]
+		- [[MBSE effort in collaboration with customer or prime contractors or subcontractors]]
+		- [[Execute MBSE-based projects]]
