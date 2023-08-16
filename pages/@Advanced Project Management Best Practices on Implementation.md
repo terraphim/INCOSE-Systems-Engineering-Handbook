@@ -1,4 +1,4 @@
-tags:: [[Technology & Engineering / General]], [[Technology & Engineering / Industrial Engineering]]
+tags:: [[Technology Engineering General]], [[Technology Engineering Industrial Engineering]]
 date:: [[Mon, 01.12.2003]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: z4SlKsi4E4QC

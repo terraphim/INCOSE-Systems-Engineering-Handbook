@@ -1,4 +1,4 @@
-tags:: [[Technology & Engineering / Automation]], [[Technology & Engineering / Engineering (General)]], [[Technology & Engineering / Manufacturing]]
+tags:: [[Technology Engineering Automation]], [[Technology Engineering Engineering (General)]], [[Technology Engineering Manufacturing]]
 date:: [[Tue, 19.04.2016]]
 publisher:: CRC Press
 extra:: Google-Books-ID: goQnTWsQBhgC

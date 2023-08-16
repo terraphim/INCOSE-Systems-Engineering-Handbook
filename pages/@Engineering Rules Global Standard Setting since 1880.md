@@ -1,4 +1,4 @@
-tags:: [[History / Americas (North]], [[Central]], [[South]], [[West Indies)]], [[Science / History]], [[Science / Weights & Measures]], [[Technology & Engineering / History]]
+tags:: [[History Americas North]], [[Central]], [[South]], [[West Indies]], [[Science History]], [[Science Weights Measures]], [[Technology Engineering History]]
 date:: [[Tue, 11.06.2019]]
 publisher:: JHU Press
 extra:: Google-Books-ID: NUmQDwAAQBAJ

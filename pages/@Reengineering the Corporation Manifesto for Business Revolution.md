@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Corporate & Business History]], [[Business & Economics / Decision-Making & Problem Solving]], [[Business & Economics / Development / Business Development]], [[Business & Economics / Leadership]], [[Business & Economics / Management]], [[Business & Economics / Management Science]], [[Business & Economics / Operations Research]], [[Business & Economics / Organizational Behavior]], [[Business & Economics / Structural Adjustment]], [[Business & Economics / Total Quality Management]]
+tags:: [[Business & Economics / Corporate & Business History]], [[Business & Economics / Decision-Making & Problem Solving]], [[Business Economics Development Business Development]], [[Business & Economics / Leadership]], [[Business Economics Management]], [[Business & Economics / Management Science]], [[Business Economics Operations Research]], [[Business Economics Organizational Behavior]], [[Business & Economics / Structural Adjustment]], [[Business & Economics / Total Quality Management]]
 date:: [[Tue, 13.10.2009]]
 publisher:: Zondervan
 extra:: Google-Books-ID: mjvGTXgFl6cC

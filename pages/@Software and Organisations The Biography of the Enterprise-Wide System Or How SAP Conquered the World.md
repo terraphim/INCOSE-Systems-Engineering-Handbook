@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / General]], [[Business & Economics / Information Management]], [[Business & Economics / Organizational Behavior]], [[Social Science / Sociology / General]]
+tags:: [[Business Economics General]], [[Business & Economics / Information Management]], [[Business Economics Organizational Behavior]], [[Social Science / Sociology / General]]
 date:: [[Thu, 14.08.2008]]
 publisher:: Routledge
 extra:: Google-Books-ID: yLp8AgAAQBAJ

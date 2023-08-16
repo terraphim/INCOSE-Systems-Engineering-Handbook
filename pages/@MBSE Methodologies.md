@@ -1,4 +1,4 @@
-tags:: [[Environment]], [[Integrated Systems Engineering and Pipelines of Processes in Object-Oriented Architectures (ISE&PPOOA)]], [[MBSE methodologies]], [[MBSE methodology]], [[Methodologies]], [[Methodology]], [[Methods]], [[Object-Oriented Systems Engineering Method (OOSEM)]], [[Object-Process Methodology (OPM)]], [[Process]], [[Systems Modeling Toolbox (SYSMOD)]], [[Tools]]
+tags:: [[Environment]], [[Integrated Systems Engineering and Pipelines of Processes in Object-Oriented Architectures (ISE PPOOA)]], [[MBSE methodologies]], [[MBSE methodology]], [[Methodologies]], [[Methodology]], [[Methods]], [[Object-Oriented Systems Engineering Method (OOSEM)]], [[Object-Process Methodology (OPM)]], [[Process]], [[Systems Modeling Toolbox (SYSMOD)]], [[Tools]]
 date:: 2020
 publisher:: Springer International Publishing
 place:: Cham

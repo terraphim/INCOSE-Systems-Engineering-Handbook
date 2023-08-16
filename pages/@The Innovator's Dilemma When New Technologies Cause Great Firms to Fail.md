@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Decision-Making & Problem Solving]], [[Business & Economics / Leadership]], [[Business & Economics / Strategic Planning]]
+tags:: [[Business & Economics / Decision-Making & Problem Solving]], [[Business & Economics / Leadership]], [[Business Economics Strategic Planning]]
 date:: [[Tue, 22.10.2013]]
 publisher:: Harvard Business Review Press
 extra:: Google-Books-ID: K6FrJTWeUssC

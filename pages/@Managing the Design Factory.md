@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Development / Business Development]], [[Business & Economics / General]], [[Business & Economics / Industrial Management]], [[Business & Economics / Management]], [[Business & Economics / Marketing / General]], [[Technology & Engineering / Industrial Design / Product]]
+tags:: [[Business Economics Development Business Development]], [[Business Economics General]], [[Business Economics Industrial Management]], [[Business Economics Management]], [[Business Economics Marketing General]], [[Technology Engineering Industrial Design Product]]
 date:: 1997-10
 publisher:: Simon and Schuster
 extra:: Google-Books-ID: LvHJChcHTv4C

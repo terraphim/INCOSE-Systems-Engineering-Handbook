@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Finance / Financial Risk Management]], [[Business & Economics / Finance / General]], [[Business & Economics / General]], [[Business & Economics / Insurance / Risk Assessment & Management]]
+tags:: [[Business & Economics / Finance / Financial Risk Management]], [[Business & Economics / Finance / General]], [[Business Economics General]], [[Business & Economics / Insurance / Risk Assessment & Management]]
 date:: [[Wed, 04.03.2020]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: fMbKDwAAQBAJ

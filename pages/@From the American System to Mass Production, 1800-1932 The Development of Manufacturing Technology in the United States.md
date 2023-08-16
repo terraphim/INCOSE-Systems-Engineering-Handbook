@@ -1,4 +1,4 @@
-tags:: [[Technology & Engineering / History]], [[Technology & Engineering / Manufacturing]], [[Transportation / Automotive / History]]
+tags:: [[Technology Engineering History]], [[Technology Engineering Manufacturing]], [[Transportation / Automotive / History]]
 date:: 1985-09
 publisher:: JHU Press
 extra:: Google-Books-ID: 9H3tHKUFcfsC

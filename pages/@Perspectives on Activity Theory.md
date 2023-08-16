@@ -1,4 +1,4 @@
-tags:: [[Psychology / Cognitive Psychology & Cognition]], [[Psychology / Ethnopsychology]], [[Psychology / General]]
+tags:: [[Psychology Cognitive Psychology Cognition]], [[Psychology Ethnopsychology]], [[Psychology General]]
 date:: [[Wed, 13.01.1999]]
 publisher:: Cambridge University Press
 extra:: Google-Books-ID: GCVCZy2xHD4C

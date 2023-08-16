@@ -1,4 +1,4 @@
-tags:: [[Political Science / Security (National & International)]], [[Technology & Engineering / General]], [[Technology & Engineering / Military Science]]
+tags:: [[Political Science Security National International]], [[Technology Engineering General]], [[Technology Engineering Military Science]]
 date:: [[Tue, 11.03.2008]]
 publisher:: National Academies Press
 extra:: Google-Books-ID: 7xBkAgAAQBAJ

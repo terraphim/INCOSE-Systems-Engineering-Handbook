@@ -1,4 +1,4 @@
-tags:: [[Language Arts & Disciplines / Communication Studies]], [[Language Arts & Disciplines / Composition & Creative Writing]], [[Science / Study & Teaching]], [[Technology & Engineering / Technical Writing]]
+tags:: [[Language Arts Disciplines Communication Studies]], [[Language Arts Disciplines Composition Creative Writing]], [[Science Study Teaching]], [[Technology Engineering Technical Writing]]
 date:: 2010
 publisher:: MIT Press
 isbn:: 978-0-262-16247-0

@@ -2,7 +2,7 @@ date:: 2007-11
 publisher:: "Delphinus, Inc."
 extra:: Google-Books-ID: GBMY4jIFa1oC
 isbn:: 978-0-9802240-0-9
-title:: @Manager's Survival Guide to Engineering Laboratory Automation
+title:: @Manager Survival Guide to Engineering Laboratory Automation
 item-type:: [[book]]
 original-title:: Manager's Survival Guide to Engineering Laboratory Automation
 language:: en

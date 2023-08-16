@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / General]]
+tags:: [[Business Economics General]]
 date:: 2000
 publisher:: Taylor & Francis
 extra:: Google-Books-ID: qzgnISfhGooC

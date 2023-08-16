@@ -1,5 +1,5 @@
 date:: [[Wed, 29.06.2022]]
-title:: @Let’s bury NIST’s outdated definition of Cloud Computing
+title:: @Let bury NISTs outdated definition of Cloud Computing
 item-type:: [[blogPost]]
 access-date:: 2022-06-30T11:49:46Z
 original-title:: Let’s bury NIST’s outdated definition of Cloud Computing

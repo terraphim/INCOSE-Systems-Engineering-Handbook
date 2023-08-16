@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Organizational Behavior]], [[Education / Educational Psychology]], [[Education / General]], [[Juvenile Nonfiction / Science & Nature / General]], [[Psychology / Cognitive Psychology & Cognition]], [[Psychology / Developmental / Child]], [[Psychology / General]]
+tags:: [[Business Economics Organizational Behavior]], [[Education Educational Psychology]], [[Education General]], [[Juvenile Nonfiction Science Nature General]], [[Psychology Cognitive Psychology Cognition]], [[Psychology Developmental Child]], [[Psychology General]]
 date:: 2015
 publisher:: Cambridge University Press
 extra:: Google-Books-ID: a6CTBQAAQBAJ

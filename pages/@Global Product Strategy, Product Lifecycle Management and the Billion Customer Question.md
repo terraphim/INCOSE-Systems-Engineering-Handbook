@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Management]], [[Business & Economics / Production & Operations Management]], [[Business & Economics / Research & Development]], [[Technology & Engineering / Industrial Design / General]], [[Technology & Engineering / Industrial Design / Product]], [[Technology & Engineering / Industrial Engineering]], [[Technology & Engineering / Manufacturing]]
+tags:: [[Business Economics Management]], [[Business Economics Production Operations Management]], [[Business Economics Research Development]], [[Technology Engineering Industrial Design General]], [[Technology Engineering Industrial Design Product]], [[Technology Engineering Industrial Engineering]], [[Technology Engineering Manufacturing]]
 date:: [[Wed, 15.08.2007]]
 publisher:: Springer Science & Business Media
 extra:: Google-Books-ID: yuZvpWQ7aEUC

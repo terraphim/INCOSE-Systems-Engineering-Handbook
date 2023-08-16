@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Business Communication / General]], [[Business & Economics / General]], [[Business & Economics / Management]], [[Business & Economics / Organizational Development]], [[Science / History]], [[Technology & Engineering / History]]
+tags:: [[Business Economics Business Communication General]], [[Business Economics General]], [[Business Economics Management]], [[Business Economics Organizational Development]], [[Science History]], [[Technology Engineering History]]
 date:: 1993-03
 publisher:: JHU Press
 extra:: Google-Books-ID: RaeJbtZFP0EC
