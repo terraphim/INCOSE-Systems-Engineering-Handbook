@@ -1,4 +1,4 @@
-tags:: [[Business Economics General]], [[Technology & Engineering / Construction / General]]
+tags:: [[Business Economics General]], [[Technology Engineering Construction General]]
 date:: [[Tue, 28.05.2013]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: vSkDDQAAQBAJ

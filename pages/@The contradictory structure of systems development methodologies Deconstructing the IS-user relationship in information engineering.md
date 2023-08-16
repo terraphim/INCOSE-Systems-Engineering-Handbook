@@ -1,7 +1,7 @@
 date:: 1994
 issue:: 4
 extra:: Publisher: INFORMS
-title:: @The contradictory structure of systems development methodologies: Deconstructing the IS-user relationship in information engineering
+title:: @The contradictory structure of systems development methodologies Deconstructing the IS-user relationship in information engineering
 pages:: 350–377
 volume:: 5
 item-type:: [[journalArticle]]

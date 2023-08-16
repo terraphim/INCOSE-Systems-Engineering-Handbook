@@ -1,5 +1,5 @@
 date:: [[Fri, 07.03.1986]]
-title:: @You and Your Research. Transcription of the Bell Communications Research Colloquium Seminar 7 March 1986
+title:: @You and Your Research. Transcription of the Bell Communications Research
 item-type:: [[hearing]]
 access-date:: 2022-07-25T14:20:22Z
 original-title:: You and Your Research. Transcription of the Bell Communications Research Colloquium Seminar 7 March 1986

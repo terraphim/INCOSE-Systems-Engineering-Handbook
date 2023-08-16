@@ -1,5 +1,5 @@
 type:: [[article]]
-source:: [[@Guide to the Systems Engineering Body of Knowledge (SEBoK version 2.8)]]
+source:: [[@Guide to the Systems Engineering Body of Knowledge (SEBoK)]]
 topic:: [[Maintenance]]
 
 - **Lead Authors:** ==[[Scott Jackson]] , [[Brian Gallagher]], Contributing Author: [[David Dorgan]]==

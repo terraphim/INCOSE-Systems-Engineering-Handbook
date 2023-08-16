@@ -5,7 +5,7 @@ place:: Cham
 series:: Decision Engineering
 extra:: DOI: 10.1007/978-3-030-16134-7_17
 isbn:: 978-3-030-16134-7
-title:: @Use of Industry 4.0 Concepts to Use the “Voice of the Product” in the Product Development Process in the Automotive Industry
+title:: @Use of Industry 4.0 Concepts to Use the Voice of the Product in the Product Development Process in the Automotive Industry
 book-title:: Product Lifecycle Management (Volume 4): The Case Studies
 pages:: 223-232
 item-type:: [[bookSection]]

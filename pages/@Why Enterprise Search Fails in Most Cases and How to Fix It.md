@@ -1,4 +1,4 @@
-title:: @Why Enterprise Search Fails in Most Cases... and How to Fix It
+title:: @Why Enterprise Search Fails in Most Cases and How to Fix It
 item-type:: [[blogPost]]
 access-date:: 2022-06-24T06:55:59Z
 original-title:: Why Enterprise Search Fails in Most Cases... and How to Fix It

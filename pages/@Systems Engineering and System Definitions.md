@@ -1,5 +1,5 @@
 date:: 2019
-title:: @Systems Engineering and System Definitions Version 1
+title:: @Systems Engineering and System Definitions
 item-type:: [[document]]
 original-title:: Systems Engineering and System Definitions Version: 1.0
 authors:: [[Hillary Sillitto]], [[James Martin]], [[Dorothy McKinney]], [[Regina Griego]]

@@ -1,4 +1,4 @@
-tags:: [[Political Science / Geopolitics]], [[Political Science / History & Theory]], [[Political Science / International Relations / General]], [[Social Science / Emigration & Immigration]]
+tags:: [[Political Science Geopolitics]], [[Political Science History Theory]], [[Political Science International Relations General]], [[Social Science Emigration Immigration]]
 date:: [[Tue, 02.08.2016]]
 publisher:: Oxford University Press
 extra:: Google-Books-ID: gXTADAAAQBAJ

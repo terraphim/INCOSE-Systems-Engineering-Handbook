@@ -1,7 +1,7 @@
 date:: [[Mon, 09.06.1986]]
 extra:: Page Version ID: 1018262568
 encyclopedia-title:: Wikipedia
-title:: @Rogers Commission Report ( Space Shuttle Challenger disaster during its 10th mission, STS-51-L)
+title:: @Rogers Commission Report (Space Shuttle Challenger disaster)
 item-type:: [[encyclopediaArticle]]
 access-date:: 2021-04-17T03:44:44Z
 rights:: Creative Commons Attribution-ShareAlike License

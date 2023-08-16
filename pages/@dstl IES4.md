@@ -1,7 +1,7 @@
 tags:: [[interoperability]], [[ontology]], [[rdf]], [[semantic]]
 date:: [[Thu, 13.04.2023]]
 extra:: original-date: 2023-03-06T11:14:21Z
-title:: @dstl/IES4
+title:: @dstl IES4
 item-type:: [[computerProgram]]
 access-date:: 2023-05-18T06:22:29Z
 original-title:: dstl/IES4
