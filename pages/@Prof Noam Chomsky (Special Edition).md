@@ -1,6 +1,6 @@
 date:: [[Sun, 10.07.2022]]
 running-time:: 3:36:54
-title:: @#78 - Prof. NOAM CHOMSKY (Special Edition)
+title:: @Prof NOAM CHOMSKY (Special Edition)
 item-type:: [[videoRecording]]
 access-date:: 2022-07-12T17:06:25Z
 original-title:: #78 - Prof. NOAM CHOMSKY (Special Edition)

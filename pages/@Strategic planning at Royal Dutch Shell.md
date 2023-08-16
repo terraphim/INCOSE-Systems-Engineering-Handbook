@@ -1,6 +1,6 @@
 date:: [[Tue, 29.08.2006]]
 doi:: 10.1002/jsc.4240020307
-title:: @Strategic planning at Royal Dutch/Shell
+title:: @Strategic planning at Royal Dutch Shell
 pages:: 157-171
 volume:: 2
 item-type:: [[journalArticle]]

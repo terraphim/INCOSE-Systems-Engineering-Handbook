@@ -1,6 +1,6 @@
 series-title:: Machine Learning Street Talk (MLST)
 episode-number:: 102
-title:: @#102 - Prof. Michael Levin, Prof. Irina Rish - Emergence, intelligence, Transhumanism.
+title:: @Prof Michael Levin Prof Irina Rish - Emergence, intelligence, Transhumanism
 item-type:: [[podcast]]
 original-title:: "#102 - Prof. Michael Levin, Prof. Irina Rish - Emergence, intelligence, Transhumanism."
 url:: https://open.spotify.com/episode/7bTd2zDHsJwaORiLQDHJcg

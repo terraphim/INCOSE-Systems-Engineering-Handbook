@@ -1,6 +1,6 @@
 date:: 1988
 publisher:: Basic books
-title:: @The psychology of everyday things.
+title:: @The psychology of everyday things
 item-type:: [[book]]
 original-title:: The psychology of everyday things.
 authors:: [[Donald A. Norman]]

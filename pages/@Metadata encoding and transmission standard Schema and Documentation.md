@@ -1,5 +1,5 @@
 date:: 2010
-title:: @Metadata encoding and transmission standard Schema and Documentation Ver. 1.6
+title:: @Metadata encoding and transmission standard Schema and Documentation
 item-type:: [[document]]
 access-date:: 2023-05-23T12:25:25Z
 original-title:: Metadata encoding and transmission standard Schema and Documentation Ver. 1.6
