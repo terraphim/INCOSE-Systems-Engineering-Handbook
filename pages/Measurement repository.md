@@ -1,5 +1,5 @@
 type:: [[Business object]]
-source:: [[@Digital Systems Engineering Process Model Version: 1.0]]
+source:: [[@Digital Systems Engineering Process Model Version 1]]
 documentation:: A repository that supports the availability for use and communication of all relevant measures in a timely, complete, valid, and, if required, confidential manner.
 
 -

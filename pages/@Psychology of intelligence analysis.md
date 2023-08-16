@@ -3,7 +3,7 @@ title:: @Psychology of intelligence analysis
 item-type:: [[journalArticle]]
 original-title:: Psychology of intelligence analysis
 journal-abbreviation:: Center for the Study of Intelligence
-authors:: [[R. Heuer]]
+authors:: [[R Heuer]]
 links:: [Local library](zotero://select/library/items/2HQ29YYQ), [Web library](https://www.zotero.org/users/6520516/items/2HQ29YYQ)
 
 - [[Abstract]]

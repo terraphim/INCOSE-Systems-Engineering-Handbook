@@ -13,7 +13,7 @@ access-date:: 2021-08-02T03:39:04Z
 original-title:: Defining quality aspects for conceptual models
 language:: en
 url:: https://doi.org/10.1007/978-0-387-34870-4_22
-authors:: [[J. Krogstie]], [[O. I. Lindland]], [[G. Sindre]]
+authors:: [[J Krogstie]], [[OI Lindland]], [[G Sindre]]
 library-catalog:: Springer Link
 links:: [Local library](zotero://select/library/items/FLVI25IR), [Web library](https://www.zotero.org/users/6520516/items/FLVI25IR)
 

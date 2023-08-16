@@ -13,7 +13,7 @@ original-title:: State-of-practice survey of model-based systems engineering
 language:: en
 url:: https://onlinelibrary.wiley.com/doi/abs/10.1002/sys.21466
 publication-title:: Systems Engineering
-authors:: [[T. Huldt]], [[I. Stenius]]
+authors:: [[T Huldt]], [[I Stenius]]
 library-catalog:: Wiley Online Library
 links:: [Local library](zotero://select/library/items/BSXQBSBX), [Web library](https://www.zotero.org/users/6520516/items/BSXQBSBX)
 

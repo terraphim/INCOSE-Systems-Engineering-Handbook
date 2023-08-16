@@ -1,5 +1,5 @@
 type:: [[Business object]]
-source:: [[@Digital Systems Engineering Process Model Version: 1.0]]
+source:: [[@Digital Systems Engineering Process Model Version 1]]
 documentation:: Responses to customer satisfaction surveys or other instruments.
 
 -

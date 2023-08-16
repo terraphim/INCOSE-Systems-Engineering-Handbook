@@ -1,5 +1,5 @@
 type:: [[Business object]]
-source:: [[@Digital Systems Engineering Process Model Version: 1.0]]
+source:: [[@Digital Systems Engineering Process Model Version 1]]
 definition:: Measures of performance characterize physical or functional attributes relating to the system operation.
 documentation:: Data provided for the identified measurement needs.
 

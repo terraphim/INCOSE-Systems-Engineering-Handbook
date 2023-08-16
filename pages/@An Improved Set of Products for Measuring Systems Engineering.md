@@ -13,7 +13,7 @@ original-title:: An Improved Set of Products for Measuring Systems Engineering
 language:: en
 url:: https://onlinelibrary.wiley.com/doi/abs/10.1002/j.2334-5837.1997.tb02259.x
 publication-title:: INCOSE International Symposium
-authors:: [[E. R. Widmann]]
+authors:: [[ER Widmann]]
 library-catalog:: Wiley Online Library
 links:: [Local library](zotero://select/library/items/YXSZ6UW2), [Web library](https://www.zotero.org/users/6520516/items/YXSZ6UW2)
 

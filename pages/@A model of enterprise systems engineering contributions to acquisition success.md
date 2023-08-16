@@ -7,7 +7,7 @@ title:: @A model of enterprise systems engineering contributions to acquisition 
 pages:: 53-58
 item-type:: [[conferencePaper]]
 original-title:: A model of enterprise systems engineering contributions to acquisition success
-authors:: [[J. L. Drury]], [[G. L. Klein]], [[M. S. Pfaff]], [[C. Bonaceto]]
+authors:: [[JL Drury]], [[GL Klein]], [[MS Pfaff]], [[C Bonaceto]]
 library-catalog:: IEEE Xplore
 links:: [Local library](zotero://select/library/items/W6I3CIH7), [Web library](https://www.zotero.org/users/6520516/items/W6I3CIH7)
 

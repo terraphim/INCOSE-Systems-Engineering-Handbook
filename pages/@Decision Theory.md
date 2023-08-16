@@ -1,4 +1,4 @@
-tags:: [[decision theory: causal]], [[epistemic utility arguments for probabilism]], [[possible worlds]], [[probabilities]], [[imprecise]], [[probability]], [[interpretations of]], [[rational choice]], [[normative: expected utility]], [[social choice theory]], [[statistics]], [[philosophy of]]
+tags:: [[decision theory causal]], [[epistemic utility arguments for probabilism]], [[possible worlds]], [[probabilities]], [[imprecise]], [[probability]], [[interpretations of]], [[rational choice]], [[normative expected utility]], [[social choice theory]], [[statistics]], [[philosophy of]]
 date:: 2020
 publisher:: "Metaphysics Research Lab, Stanford University"
 title:: @Decision Theory
@@ -8,7 +8,7 @@ access-date:: 2022-02-17T11:36:59Z
 original-title:: Decision Theory
 url:: https://plato.stanford.edu/archives/win2020/entries/decision-theory/
 edition:: Winter 2020
-authors:: [[Katie Steele]], [[H. Orri Stefánsson]]
+authors:: [[Katie Steele]], [[H Orri Stefánsson]]
 library-catalog:: Stanford Encyclopedia of Philosophy
 links:: [Local library](zotero://select/library/items/3ZIPW2UJ), [Web library](https://www.zotero.org/users/6520516/items/3ZIPW2UJ)
 

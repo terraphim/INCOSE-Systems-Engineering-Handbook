@@ -353,7 +353,7 @@
  :feature/enable-flashcards? false
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
- :default-home {:page "@Digital Systems Engineering Process Model Version: 1.0"}
+ :default-home {:page "@Digital Systems Engineering Process Model Version 1"}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

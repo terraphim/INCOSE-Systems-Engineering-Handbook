@@ -2,7 +2,7 @@ date:: [[Thu, 28.10.2010]]
 title:: @Contract-Based Requirements Engineering
 item-type:: [[book]]
 original-title:: Contract-Based Requirements Engineering
-authors:: [[Brian Berenbach]], [[Ren-Yi Lo]], [[B. Sherman]]
+authors:: [[Brian Berenbach]], [[Ren-Yi Lo]], [[B Sherman]]
 library-catalog:: ResearchGate
 links:: [Local library](zotero://select/library/items/VJIJ9X3J), [Web library](https://www.zotero.org/users/6520516/items/VJIJ9X3J)
 num-pages:: 27

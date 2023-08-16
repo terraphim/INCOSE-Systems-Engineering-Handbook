@@ -18,7 +18,7 @@ topic:: [[Maintenance]]
 	- a ==maintenance strategy== is developed
 	- ==maintenance constraints== are provided as inputs to requirements
 	  collapsed:: true
-		- This relation is missing in the current [[@Digital Systems Engineering Process Model Version: 1.0]].
+		- This relation is missing in the current [[@Digital Systems Engineering Process Model Version 1]].
 		  id:: 64b7d158-67cd-4af4-8880-a58f700beec6
 	- ==replacement system elements== are made available
 	- ==services meeting stakeholder requirements== are sustained

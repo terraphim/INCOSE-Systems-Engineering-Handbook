@@ -7,7 +7,7 @@ item-type:: [[journalArticle]]
 original-title:: "Revisions, Repairs, and Rework on Large Projects"
 publication-title:: Journal of Construction Engineering and Management
 journal-abbreviation:: Journal of Construction Engineering and Management
-authors:: [[D. Friedrich]], [[J. Daly]], [[W. Dick]]
+authors:: [[D Friedrich]], [[J Daly]], [[W Dick]]
 library-catalog:: ResearchGate
 links:: [Local library](zotero://select/library/items/4C26QQDR), [Web library](https://www.zotero.org/users/6520516/items/4C26QQDR)
 

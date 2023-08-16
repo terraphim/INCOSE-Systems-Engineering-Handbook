@@ -1,5 +1,5 @@
 type:: [[Business object]]
-source:: [[@Digital Systems Engineering Process Model Version: 1.0]]
+source:: [[@Digital Systems Engineering Process Model Version 1]]
 documentation:: Any constraints on the system arising from the implementation strategy including cost, schedule, and technical constraints.
 
 -

@@ -6,7 +6,7 @@ access-date:: 2020-06-26T02:40:05Z
 original-title:: Structuring a Product Development Organization Based on the Product Architecture and Communication
 language:: en
 url:: https://www.designsociety.org/publication/38606/Structuring+a+Product+Development+Organization+Based+on+the+Product+Architecture+and+Communication
-authors:: [[R. R. Luna]], [[S. D. Eppinger]]
+authors:: [[RR Luna]], [[S. D. Eppinger]]
 links:: [Local library](zotero://select/library/items/EGMLAETW), [Web library](https://www.zotero.org/users/6520516/items/EGMLAETW)
 
 - [[Abstract]]

@@ -9,7 +9,7 @@ pages:: 2704-2708 vol.3
 volume:: 3
 item-type:: [[conferencePaper]]
 original-title:: A value-seeking approach to the engineering of systems
-authors:: [[J. Ring]]
+authors:: [[J Ring]]
 library-catalog:: IEEE Xplore
 links:: [Local library](zotero://select/library/items/JIZVT32Q), [Web library](https://www.zotero.org/users/6520516/items/JIZVT32Q)
 

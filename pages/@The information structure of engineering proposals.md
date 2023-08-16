@@ -9,7 +9,7 @@ pages:: 1-9
 item-type:: [[conferencePaper]]
 original-title:: The information structure of engineering proposals: Suggesting a taxonomy of information components for competitive proposals and a potential metric for information content
 short-title:: The information structure of engineering proposals
-authors:: [[H. E. Sales]]
+authors:: [[HE Sales]]
 library-catalog:: IEEE Xplore
 links:: [Local library](zotero://select/library/items/4YFWER5L), [Web library](https://www.zotero.org/users/6520516/items/4YFWER5L)
 

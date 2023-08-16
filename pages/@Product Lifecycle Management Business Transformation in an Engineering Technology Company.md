@@ -13,7 +13,7 @@ access-date:: 2021-11-30T06:47:35Z
 original-title:: Product Lifecycle Management Business Transformation in an Engineering Technology Company
 language:: en
 url:: https://doi.org/10.1007/978-3-030-16134-7_15
-authors:: [[I. Donoghue]], [[L. Hannola]], [[J. Papinniemi]]
+authors:: [[I Donoghue]], [[L Hannola]], [[J Papinniemi]]
 library-catalog:: Springer Link
 links:: [Local library](zotero://select/library/items/5B3S2IBE), [Web library](https://www.zotero.org/users/6520516/items/5B3S2IBE)
 

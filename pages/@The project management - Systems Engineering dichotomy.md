@@ -7,7 +7,7 @@ title:: @The project management - Systems Engineering dichotomy
 pages:: 306-310
 item-type:: [[conferencePaper]]
 original-title:: The project management - Systems Engineering dichotomy
-authors:: [[D. Watt]], [[K. Willey]]
+authors:: [[D Watt]], [[K Willey]]
 library-catalog:: IEEE Xplore
 links:: [Local library](zotero://select/library/items/CH345VJF), [Web library](https://www.zotero.org/users/6520516/items/CH345VJF)
 
