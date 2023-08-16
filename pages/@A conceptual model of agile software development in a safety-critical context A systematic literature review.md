@@ -2,7 +2,7 @@ tags:: [[Agile processes]], [[Agile software development]], [[Interpretive liter
 date:: [[Thu, 01.11.2018]]
 issn:: 0950-5849
 doi:: 10.1016/j.infsof.2018.06.004
-title:: @A conceptual model of agile software development in a safety-critical context: A systematic literature review
+title:: @A conceptual model of agile software development in a safety-critical context A systematic literature review
 pages:: 22-39
 volume:: 103
 item-type:: [[journalArticle]]
