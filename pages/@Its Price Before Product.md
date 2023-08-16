@@ -1,5 +1,5 @@
 date:: 2016
-title:: @It’s Price Before Product. Period.
+title:: @Its Price Before Product
 item-type:: [[blogPost]]
 access-date:: 2022-04-22T15:36:26Z
 original-title:: It’s Price Before Product. Period.

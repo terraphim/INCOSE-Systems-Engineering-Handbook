@@ -1,5 +1,5 @@
 date:: [[Sun, 31.05.2020]]
-title:: @Free ArchiMate 3.2 Overview PDFs in multiple languages
+title:: @Free ArchiMate 3 Overview PDFs in multiple languages
 item-type:: [[blogPost]]
 access-date:: 2023-05-21T10:23:51Z
 original-title:: Free ArchiMate 3.2 Overview PDFs in multiple languages

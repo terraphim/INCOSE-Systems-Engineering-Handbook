@@ -1,5 +1,5 @@
 date:: 2022
-title:: @Blackblot PMTK Methodology™ Product Management Glossary
+title:: @Blackblot PMTK Methodology Product Management Glossary
 website-title:: Blackblot - Product Management Expertise™
 item-type:: [[webpage]]
 access-date:: 2023-02-17T10:20:20Z

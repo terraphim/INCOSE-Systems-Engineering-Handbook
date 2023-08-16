@@ -1,5 +1,5 @@
 date:: [[Sat, 20.08.2022]]
-title:: @Layering — is it really a useful approach in Business/IT/Enterprise Architecture?
+title:: @Layering — is it really a useful approach in Business IT Enterprise Architecture
 item-type:: [[blogPost]]
 access-date:: 2022-08-21T05:37:52Z
 original-title:: Layering — is it really a useful approach in Business/IT/Enterprise Architecture?

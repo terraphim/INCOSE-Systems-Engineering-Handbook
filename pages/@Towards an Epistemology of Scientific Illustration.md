@@ -1,6 +1,6 @@
 date:: 2016
 publisher:: University of Toronto Press
-title:: @7. Towards an Epistemology of Scientific Illustration
+title:: @Towards an Epistemology of Scientific Illustration
 item-type:: [[book]]
 original-title:: 7. Towards an Epistemology of Scientific Illustration
 authors:: [[David Topper]]

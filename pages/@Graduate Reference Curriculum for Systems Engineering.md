@@ -1,6 +1,6 @@
 date:: 2015
 publisher:: Trustees of the Stevens Institute of Technology
-title:: @Graduate Reference Curriculum for Systems Engineering version 1.1
+title:: @Graduate Reference Curriculum for Systems Engineering
 item-type:: [[document]]
 original-title:: Graduate Reference Curriculum for Systems Engineering version 1.1
 short-title:: GRCSE™ version 1

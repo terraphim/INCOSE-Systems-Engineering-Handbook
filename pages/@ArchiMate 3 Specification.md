@@ -1,5 +1,5 @@
 date:: 2019
-title:: @ArchiMate® 3.1 Specification
+title:: @ArchiMate 3 Specification
 item-type:: [[webpage]]
 access-date:: 2022-01-13T05:49:12Z
 original-title:: ArchiMate® 3.1 Specification

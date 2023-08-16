@@ -3,7 +3,7 @@ date:: [[Tue, 01.05.2001]]
 issn:: 0961-3218
 issue:: 3
 doi:: 10.1080/09613210110039266
-title:: @Is the current theory of construction a hindrance to innovation?
+title:: @Is the current theory of construction a hindrance to innovation
 pages:: 197-207
 volume:: 29
 item-type:: [[journalArticle]]

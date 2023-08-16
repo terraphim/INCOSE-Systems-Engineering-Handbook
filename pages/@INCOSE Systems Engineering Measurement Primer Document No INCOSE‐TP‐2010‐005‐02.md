@@ -1,5 +1,5 @@
 date:: [[Fri, 05.11.2010]]
-title:: @INCOSE Systems Engineering Measurement Primer v2.0  Document No.: INCOSE‐TP‐2010‐005‐02
+title:: @INCOSE Systems Engineering Measurement Primer Document No INCOSE‐TP‐2010‐005‐02
 item-type:: [[document]]
 original-title:: INCOSE Systems Engineering Measurement Primer v2.0  Document No.: INCOSE‐TP‐2010‐005‐02
 url:: https://www.incose.org/docs/default-source/ProductsPublications/systems-engineering-measurement-primer---december-2010.pdf

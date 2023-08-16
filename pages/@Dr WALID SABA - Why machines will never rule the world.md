@@ -1,6 +1,6 @@
 date:: [[Fri, 16.12.2022]]
 running-time:: 1:21:59
-title:: @#88 Dr. WALID SABA - Why machines will never rule the world [UNPLUGGED]
+title:: @Dr WALID SABA - Why machines will never rule the world
 item-type:: [[videoRecording]]
 access-date:: 2023-02-16T09:19:27Z
 original-title:: #88 Dr. WALID SABA - Why machines will never rule the world [UNPLUGGED]

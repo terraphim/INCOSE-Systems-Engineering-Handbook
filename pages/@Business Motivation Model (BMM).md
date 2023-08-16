@@ -1,5 +1,5 @@
 date:: 2015
-title:: @Business Motivation Model (BMM) ver. 1.3
+title:: @Business Motivation Model (BMM)
 item-type:: [[document]]
 original-title:: Business Motivation Model (BMM) ver. 1.3
 url:: https://www.omg.org/spec/BMM/1.3/About-BMM/

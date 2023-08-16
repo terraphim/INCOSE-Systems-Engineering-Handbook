@@ -1,6 +1,6 @@
 date:: 2022
 publisher:: BKCASE Governance and Editorial Board
-title:: @Guide to the Systems Engineering Body of Knowledge (SEBoK version 2.8)
+title:: @Guide to the Systems Engineering Body of Knowledge (SEBoK)
 item-type:: [[document]]
 access-date:: 2020-12-30T05:18:34Z
 original-title:: Guide to the Systems Engineering Body of Knowledge (SEBoK version 2.8)

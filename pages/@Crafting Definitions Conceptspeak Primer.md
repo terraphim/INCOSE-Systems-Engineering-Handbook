@@ -1,5 +1,5 @@
 date:: [[Mon, 17.10.2016]]
-title:: @Crafting Definitionsa Conceptspeak™ Primer
+title:: @Crafting Definitions Conceptspeak Primer
 item-type:: [[document]]
 access-date:: 2022-08-26T09:32:12Z
 original-title:: Crafting Definitionsa Conceptspeak™ Primer

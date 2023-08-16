@@ -3,7 +3,7 @@ date:: [[Fri, 01.10.2004]]
 issn:: 1478-3363
 issue:: 8
 doi:: 10.1080/1478336042000255424
-title:: @Conceptualizing and Exploring the Organizational Effects of ISO 9000: Insights from the Øresund Bridge Project
+title:: @Conceptualizing and Exploring the Organizational Effects of ISO 9000 Insights from the Øresund Bridge Project
 pages:: 1155-1168
 volume:: 15
 item-type:: [[journalArticle]]

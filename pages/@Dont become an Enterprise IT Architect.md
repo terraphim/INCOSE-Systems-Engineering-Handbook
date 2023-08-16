@@ -1,5 +1,5 @@
 date:: [[Sat, 31.07.2021]]
-title:: @Don’t become an Enterprise/IT Architect…
+title:: @Dont become an Enterprise IT Architect
 item-type:: [[blogPost]]
 access-date:: 2022-05-12T15:45:22Z
 original-title:: Don’t become an Enterprise/IT Architect…

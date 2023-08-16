@@ -1,7 +1,7 @@
 date:: 2012
 issue:: 8
 extra:: Publisher: Elsevier
-title:: @Exploring the duality between product and organizational architectures: A test of the “mirroring” hypothesis
+title:: @Exploring the duality between product and organizational architectures A test of the mirroring hypothesis
 pages:: 1309–1324
 volume:: 41
 item-type:: [[journalArticle]]

@@ -1,6 +1,6 @@
 date:: 2022
 issue:: 117
-title:: @Building a Great “Work” Breakdown Structure
+title:: @Building a Great Work Breakdown Structure
 item-type:: [[journalArticle]]
 original-title:: Building a Great “Work” Breakdown Structure
 publication-title:: PPI SyEN

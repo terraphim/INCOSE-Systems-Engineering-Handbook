@@ -1,5 +1,5 @@
 date:: [[Sat, 14.08.2021]]
-title:: @From Dark Scrum to Broken SAFe — some real problems of Agile-at-scale. And a way out.
+title:: @From Dark Scrum to Broken SAFe — some real problems of Agile-at-scale And a way out
 item-type:: [[blogPost]]
 access-date:: 2022-09-12T04:11:52Z
 original-title:: From Dark Scrum to Broken SAFe — some real problems of Agile-at-scale. And a way out.

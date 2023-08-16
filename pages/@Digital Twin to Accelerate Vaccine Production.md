@@ -1,6 +1,6 @@
 date:: 2020
 running-time:: 25:18
-title:: @[Atos Tech Days] Digital Twin to Accelerate Vaccine Production
+title:: @Digital Twin to Accelerate Vaccine Production
 item-type:: [[videoRecording]]
 access-date:: 2021-06-19T06:32:20Z
 original-title:: [Atos Tech Days] Digital Twin to Accelerate Vaccine Production

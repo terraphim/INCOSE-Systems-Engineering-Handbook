@@ -2,7 +2,7 @@ date:: 2012
 publisher:: Wiley Online Library
 proceedings-title:: INCOSE International Symposium
 extra:: Issue: 1
-title:: @2.2. 1 Decision Management (DM) as the engine for scalable cross domain Systems Engineering (SE)
+title:: @Decision Management (DM) as the engine for scalable cross domain Systems Engineering (SE)
 pages:: 241–254
 volume:: 22
 item-type:: [[conferencePaper]]

@@ -3,7 +3,7 @@ date:: 2016
 issn:: 1520-6858
 issue:: 2
 doi:: 10.1002/sys.21345
-title:: @Characterizing Design Process Interfaces as Organization Networks: Insights for Engineering Systems Management
+title:: @Characterizing Design Process Interfaces as Organization Networks Insights for Engineering Systems Management
 pages:: 158-173
 volume:: 19
 item-type:: [[journalArticle]]

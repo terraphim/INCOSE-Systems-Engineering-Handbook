@@ -1,7 +1,7 @@
 date:: 2001
 issue:: 4
 extra:: Publisher: SAGE Publications
-title:: @Knowledge specialization, organizational coupling, and the boundaries of the firm: why do firms know more than they make?
+title:: @Knowledge specialization, organizational coupling, and the boundaries of the firm why do firms know more than they make
 pages:: 597–621
 volume:: 46
 item-type:: [[journalArticle]]

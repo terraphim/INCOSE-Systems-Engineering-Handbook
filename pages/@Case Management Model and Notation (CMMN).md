@@ -1,5 +1,5 @@
 date:: 2016
-title:: @Case Management Model and Notation™ (CMMN ™) v. 1.1
+title:: @Case Management Model and Notation (CMMN)
 item-type:: [[document]]
 original-title:: Case Management Model and Notation™ (CMMN ™) v. 1.1
 url:: https://www.omg.org/cmmn/

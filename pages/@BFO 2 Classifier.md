@@ -1,7 +1,7 @@
 programming-language:: Java
 date:: [[Wed, 01.02.2023]]
 extra:: original-date: 2023-02-01T07:43:09Z
-title:: @BFO 2.0 Classifier
+title:: @BFO 2 Classifier
 item-type:: [[computerProgram]]
 access-date:: 2023-07-02T09:35:34Z
 original-title:: BFO 2.0 Classifier

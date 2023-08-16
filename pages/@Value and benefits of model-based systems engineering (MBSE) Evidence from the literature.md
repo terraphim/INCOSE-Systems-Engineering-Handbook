@@ -4,7 +4,7 @@ issn:: 1520-6858
 issue:: 1
 extra:: _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/sys.21566
 doi:: 10.1002/sys.21566
-title:: @Value and benefits of model-based systems engineering (MBSE): Evidence from the literature
+title:: @Value and benefits of model-based systems engineering (MBSE) Evidence from the literature
 pages:: 51-66
 volume:: 24
 item-type:: [[journalArticle]]

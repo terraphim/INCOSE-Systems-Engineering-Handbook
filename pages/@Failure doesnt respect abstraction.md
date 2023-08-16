@@ -1,5 +1,5 @@
 date:: [[Mon, 21.01.2019]]
-title:: @Failure doesn’t respect abstraction.
+title:: @Failure doesnt respect abstraction
 item-type:: [[blogPost]]
 access-date:: 2023-01-09T05:05:03Z
 original-title:: Failure doesn’t respect abstraction.
