@@ -1,4 +1,4 @@
-tags:: [[Art / Business Aspects]], [[Art / General]], [[Design / General]]
+tags:: [[Art Business Aspects]], [[Art General]], [[Design General]]
 date:: [[Tue, 31.10.2006]]
 publisher:: AVA Publishing
 extra:: Google-Books-ID: Hm5Tn1EjUWAC

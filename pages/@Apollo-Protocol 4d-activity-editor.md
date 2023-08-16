@@ -1,4 +1,4 @@
-title:: @Apollo-Protocol/4d-activity-editor
+title:: @Apollo-Protocol 4d-activity-editor
 website-title:: GitHub
 item-type:: [[webpage]]
 access-date:: 2023-05-18T06:24:19Z

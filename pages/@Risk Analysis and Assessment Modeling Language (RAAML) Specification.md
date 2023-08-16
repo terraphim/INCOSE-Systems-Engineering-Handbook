@@ -4,7 +4,7 @@ item-type:: [[document]]
 access-date:: 2022-04-20T05:57:25Z
 original-title:: Risk Analysis and Assessment Modeling Language (RAAML) Specification Version 1.0
 url:: https://www.omg.org/spec/RAAML
-authors:: [[The Object Management Group® (OMG®)]]
+authors:: [[The Object Management Group (OMG)]]
 links:: [Local library](zotero://select/library/items/WK5R5RF9), [Web library](https://www.zotero.org/users/6520516/items/WK5R5RF9)
 
 - [[Abstract]]

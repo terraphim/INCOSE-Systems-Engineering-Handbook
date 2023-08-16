@@ -1,4 +1,4 @@
-title:: @Contracts & Legal Overview
+title:: @Contracts Legal Overview
 website-title:: AcqNotes
 item-type:: [[webpage]]
 access-date:: 2022-08-18T16:15:21Z

@@ -1,4 +1,4 @@
-title:: @Designing Decision Tables Part 2: Fundamental Styles : Commentary : Business Rules Community / Business Rules Journal
+title:: @Designing Decision Tables Part 2 Fundamental Styles
 item-type:: [[blogPost]]
 access-date:: 2022-08-26T07:27:01Z
 original-title:: Designing Decision Tables Part 2: Fundamental Styles : Commentary : Business Rules Community / Business Rules Journal

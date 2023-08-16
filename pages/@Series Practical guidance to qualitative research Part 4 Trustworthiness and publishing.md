@@ -1,4 +1,4 @@
-tags:: [[General practice/family medicine]], [[general]], [[publishing]], [[qualitative designs and methods]], [[reflexivity]], [[trustworthiness]]
+tags:: [[General practice family medicine]], [[general]], [[publishing]], [[qualitative designs and methods]], [[reflexivity]], [[trustworthiness]]
 date:: [[Mon, 01.01.2018]]
 issn:: 1381-4788
 issue:: 1

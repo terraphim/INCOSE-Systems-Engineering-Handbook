@@ -1,9 +1,9 @@
-tags:: [[Architecture / Criticism]], [[Architecture / Historic Preservation / General]], [[Architecture / History / General]]
+tags:: [[Architecture Criticism]], [[Architecture Historic Preservation General]], [[Architecture History General]]
 date:: [[Sun, 01.10.1995]]
 publisher:: Penguin
 extra:: Google-Books-ID: zkgRgdVN2GIC
 isbn:: 978-1-101-56264-2
-title:: @How Buildings Learn What Happens After They're Built
+title:: @How Buildings Learn What Happens After They are Built
 item-type:: [[book]]
 original-title:: How Buildings Learn: What Happens After They're Built
 language:: en

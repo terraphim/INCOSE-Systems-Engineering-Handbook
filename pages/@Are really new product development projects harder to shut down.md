@@ -3,7 +3,7 @@ issn:: 0737-6782
 issue:: 2
 series:: A Special Issue Co-Sponsored by the Marketing Science Institute on the Subject of Really New Products
 doi:: 10.1016/S0737-6782(97)00074-X
-title:: @Are really new product development projects harder to shut down?
+title:: @Are really new product development projects harder to shut down
 pages:: 111-123
 volume:: 15
 item-type:: [[journalArticle]]

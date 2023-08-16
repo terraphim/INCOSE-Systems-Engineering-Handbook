@@ -1,4 +1,4 @@
-tags:: [[Philosophy / Epistemology]], [[Science / Essays]], [[Social Science Sociology General]]
+tags:: [[Philosophy Epistemology]], [[Science Essays]], [[Social Science Sociology General]]
 date:: [[Mon, 10.06.2002]]
 publisher:: Duke University Press
 isbn:: 978-0-8223-2846-9

@@ -1,4 +1,4 @@
-tags:: [[Social Science / Anthropology / Cultural & Social]]
+tags:: [[Social Science Anthropology Cultural Social]]
 date:: [[Sun, 01.06.1986]]
 publisher:: Syracuse University Press
 extra:: Google-Books-ID: EjQzxQw5HLIC

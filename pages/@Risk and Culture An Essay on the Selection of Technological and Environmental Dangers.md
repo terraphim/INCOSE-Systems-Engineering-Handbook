@@ -1,4 +1,4 @@
-tags:: [[Nature / Environmental Conservation & Protection]]
+tags:: [[Nature Environmental Conservation Protection]]
 date:: [[Thu, 27.10.1983]]
 publisher:: University of California Press
 extra:: Google-Books-ID: rXrGbnMg63YC

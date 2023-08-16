@@ -9,7 +9,7 @@ public:: true
 	  TextSubject:: [[Engineering project]], [[MBSE]]
 	  TextAuthor:: [[Robert Cloutier]]
 	  AuthorEmail:: [[robert.cloutier@stevens.edu]]
-	  TextDate:: [[08/2015]]
+	  TextDate:: [[2015]]
 	- The first user segment will be [[Lens builder]]. They are expert users who can analyze the texts and build formal models (knowledge graph templates for specific roles) from them that others can use to get insights and adapt their search relevance. I will be lens builder for MBSE set of roles
 	- ## Author's specific terms for activities
 		- ((64af9595-87ca-4f8b-acf2-27993739854a))

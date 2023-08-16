@@ -1,7 +1,7 @@
 date:: 2004
 issue:: 4
 extra:: Publisher: Elsevier
-title:: @Criteria employed for go/no-go decisions when developing successful highly innovative products
+title:: @Criteria employed for go no-go decisions when developing successful highly innovative products
 pages:: 307–316
 volume:: 33
 item-type:: [[journalArticle]]

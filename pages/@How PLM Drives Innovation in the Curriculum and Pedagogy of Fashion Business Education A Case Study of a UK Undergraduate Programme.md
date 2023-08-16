@@ -4,7 +4,7 @@ place:: Cham
 series:: Decision Engineering
 extra:: DOI: 10.1007/978-3-030-16134-7_14
 isbn:: 978-3-030-16134-7
-title:: @How PLM Drives Innovation in the Curriculum and Pedagogy of Fashion Business Education: A Case Study of a UK Undergraduate Programme
+title:: @How PLM Drives Innovation in the Curriculum and Pedagogy of Fashion Business Education A Case Study of a UK Undergraduate Programme
 book-title:: Product Lifecycle Management (Volume 4): The Case Studies
 pages:: 171-183
 item-type:: [[bookSection]]
