@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Business Mathematics]], [[Business & Economics / Information Management]], [[Computers / Data Processing]], [[Computers / Enterprise Applications / Business Intelligence Tools]], [[Computers / Information Technology]], [[Computers / Software Development & Engineering / General]], [[Computers / System Administration / Storage & Retrieval]], [[Political Science / Public Affairs & Administration]]
+tags:: [[Business Economics Business Mathematics]], [[Business Economics Information Management]], [[Computers Data Processing]], [[Computers Enterprise Applications Business Intelligence Tools]], [[Computers Information Technology]], [[Computers Software Development Engineering General]], [[Computers System Administration Storage Retrieval]], [[Political Science Public Affairs Administration]]
 date:: [[Thu, 05.04.2018]]
 publisher:: Springer
 extra:: Google-Books-ID: yZJUDwAAQBAJ

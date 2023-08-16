@@ -1,4 +1,4 @@
-tags:: [[Computers / Software Development & Engineering / Systems Analysis & Design]], [[Technology & Engineering / Electrical]], [[Technology & Engineering / Electronics / General]]
+tags:: [[Computers Software Development Engineering Systems Analysis Design]], [[Technology Engineering Electrical]], [[Technology Engineering Electronics General]]
 date:: [[Tue, 05.04.2022]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: 1GNoEAAAQBAJ

@@ -1,4 +1,4 @@
-tags:: [[Computers / Management Information Systems]], [[Computers / Operating Systems / General]], [[Computers / Software Development & Engineering / Project Management]], [[Technology & Engineering / Electrical]], [[Technology & Engineering / Electronics / General]]
+tags:: [[Computers Management Information Systems]], [[Computers Operating Systems General]], [[Computers Software Development Engineering Project Management]], [[Technology Engineering Electrical]], [[Technology Engineering Electronics General]]
 date:: [[Tue, 25.10.2022]]
 publisher:: John Wiley & Sons
 isbn:: 978-1-119-90142-6

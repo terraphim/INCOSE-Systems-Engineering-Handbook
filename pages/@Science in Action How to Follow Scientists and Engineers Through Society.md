@@ -1,4 +1,4 @@
-tags:: [[Social Science / Sociology / General]]
+tags:: [[Social Science Sociology General]]
 date:: 1987
 publisher:: Harvard University Press
 extra:: Google-Books-ID: sC4bk4DZXTQC

@@ -1,4 +1,4 @@
-tags:: [[Atmospheric measurements]], [[Buyer–supplier integration]], [[Complexity theory]], [[Computer architecture]], [[Particle measurements]], [[Product design]], [[Standards]], [[buyer-supplier integration]], [[complex technological systems]], [[management effects]], [[mirroring hypothesis]], [[modularity]], [[organizational implications]], [[product architecture]], [[product development]], [[product life cycle management]], [[product modularity]], [[supply chain management]], [[“mirroring” hypothesis]]
+tags:: [[Atmospheric measurements]], [[Buyer–supplier integration]], [[Complexity theory]], [[Computer architecture]], [[Particle measurements]], [[Product design]], [[Standards]], [[buyer-supplier integration]], [[complex technological systems]], [[management effects]], [[mirroring hypothesis]], [[modularity]], [[organizational implications]], [[product architecture]], [[product development]], [[product life cycle management]], [[product modularity]], [[supply chain management]], [[mirroring hypothesis]]
 date:: February 2017
 issn:: 1558-0040
 issue:: 1

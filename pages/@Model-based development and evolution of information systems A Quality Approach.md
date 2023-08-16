@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Business Mathematics]], [[Business & Economics / Information Management]], [[Computers / Computer Architecture]], [[Computers / Computer Simulation]], [[Computers / Software Development & Engineering / General]]
+tags:: [[Business Economics Business Mathematics]], [[Business Economics Information Management]], [[Computers Computer Architecture]], [[Computers Computer Simulation]], [[Computers Software Development Engineering General]]
 date:: 2012
 publisher:: Springer Science & Business Media
 title:: @Model-based development and evolution of information systems A Quality Approach

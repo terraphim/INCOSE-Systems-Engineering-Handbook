@@ -1,4 +1,4 @@
-tags:: [[Social Science / Sociology / General]]
+tags:: [[Social Science Sociology General]]
 date:: 2004
 publisher:: MIT Press
 extra:: Google-Books-ID: QiMS8t4V_0cC

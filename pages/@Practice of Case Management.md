@@ -1,4 +1,4 @@
-tags:: [[Social Science / Social Work]]
+tags:: [[Social Science Social Work]]
 date:: 1989
 publisher:: SAGE
 isbn:: 978-0-8039-3205-0

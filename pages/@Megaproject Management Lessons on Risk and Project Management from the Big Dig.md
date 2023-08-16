@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Project Management]], [[Technology & Engineering / Environmental / General]]
+tags:: [[Business Economics Project Management]], [[Technology Engineering Environmental General]]
 date:: [[Mon, 17.06.2013]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: HwZFDwAAQBAJ

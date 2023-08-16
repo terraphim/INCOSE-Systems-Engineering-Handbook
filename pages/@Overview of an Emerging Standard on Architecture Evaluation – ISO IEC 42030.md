@@ -3,7 +3,7 @@ issn:: 2334-5837
 issue:: 1
 extra:: _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2334-5837.2017.00418.x
 doi:: https://doi.org/10.1002/j.2334-5837.2017.00418.x
-title:: @Overview of an Emerging Standard on Architecture Evaluation – ISO/IEC 42030
+title:: @Overview of an Emerging Standard on Architecture Evaluation – ISO IEC 42030
 pages:: 1139-1156
 volume:: 27
 item-type:: [[journalArticle]]

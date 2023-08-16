@@ -2,7 +2,7 @@ date:: [[Thu, 01.03.2001]]
 issn:: 0895-6308
 issue:: 2
 doi:: 10.1080/08956308.2001.11671418
-title:: @Providing Clarity and A Common Language to the “Fuzzy Front End”
+title:: @Providing Clarity and A Common Language to the Fuzzy Front End
 pages:: 46-55
 volume:: 44
 item-type:: [[journalArticle]]

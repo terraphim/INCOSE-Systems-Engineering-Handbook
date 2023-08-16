@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Project Management]], [[Technology & Engineering / Electrical]]
+tags:: [[Business Economics Project Management]], [[Technology Engineering Electrical]]
 date:: [[Tue, 21.02.2017]]
 publisher:: John Wiley & Sons
 extra:: Google-Books-ID: 7GfgDQAAQBAJ

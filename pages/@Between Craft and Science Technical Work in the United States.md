@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Labor / General]], [[Political Science / Labor & Industrial Relations]], [[Social Science / Sociology / General]]
+tags:: [[Business Economics Labor General]], [[Political Science Labor Industrial Relations]], [[Social Science Sociology General]]
 date:: [[Thu, 18.10.2018]]
 publisher:: Cornell University Press
 extra:: Google-Books-ID: Di5zDwAAQBAJ

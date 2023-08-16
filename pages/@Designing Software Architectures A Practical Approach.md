@@ -1,4 +1,4 @@
-tags:: [[Computers / Software Development & Engineering / General]], [[Computers / Software Development & Engineering / Systems Analysis & Design]]
+tags:: [[Computers Software Development Engineering General]], [[Computers Software Development Engineering Systems Analysis Design]]
 date:: [[Fri, 29.04.2016]]
 publisher:: Addison-Wesley Professional
 extra:: Google-Books-ID: G30JDAAAQBAJ

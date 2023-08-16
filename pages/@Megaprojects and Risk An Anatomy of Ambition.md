@@ -1,4 +1,4 @@
-tags:: [[Business & Economics / Economics / General]], [[Political Science / Public Policy / Regional Planning]], [[Social Science / General]], [[Social Science / Sociology / General]], [[Technology & Engineering / Environmental / General]]
+tags:: [[Business Economics Economics General]], [[Political Science Public Policy Regional Planning]], [[Social Science General]], [[Social Science Sociology General]], [[Technology Engineering Environmental General]]
 date:: [[Thu, 13.02.2003]]
 publisher:: Cambridge University Press
 isbn:: 978-0-521-00946-1

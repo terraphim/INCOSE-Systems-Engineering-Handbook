@@ -2,7 +2,7 @@ date:: 12/2020
 issn:: "8756-9728, 1938-9507"
 issue:: 6
 doi:: 10.1177/8756972820913392
-title:: @Project-as-Practice Applying Bourdieu’s Theory of Practice on Project Managers
+title:: @Project-as-Practice Applying Bourdieu Theory of Practice on Project Managers
 pages:: 599-616
 volume:: 51
 item-type:: [[journalArticle]]

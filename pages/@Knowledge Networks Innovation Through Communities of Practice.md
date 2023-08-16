@@ -1,4 +1,4 @@
-tags:: [[Biography & Autobiography / General]], [[Business & Economics / Information Management]], [[Computers / Information Technology]], [[Computers / Management Information Systems]]
+tags:: [[Biography & Autobiography / General]], [[Business Economics Information Management]], [[Computers Information Technology]], [[Computers Management Information Systems]]
 date:: [[Thu, 01.01.2004]]
 publisher:: Idea Group Inc (IGI)
 extra:: Google-Books-ID: 4ANHY1c6b6YC

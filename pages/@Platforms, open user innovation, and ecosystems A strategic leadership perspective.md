@@ -1,6 +1,6 @@
 date:: 2017
 publisher:: Emerald Publishing Limited
-title:: @Platforms, open/user innovation, and ecosystems A strategic leadership perspective
+title:: @Platforms, open user innovation, and ecosystems A strategic leadership perspective
 book-title:: "Entrepreneurship, innovation, and platforms"
 item-type:: [[bookSection]]
 original-title:: "Platforms, open/user innovation, and ecosystems: A strategic leadership perspective"

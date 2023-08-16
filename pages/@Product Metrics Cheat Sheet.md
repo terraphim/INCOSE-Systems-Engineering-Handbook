@@ -6,7 +6,7 @@ original-title:: Product Metrics Cheat Sheet
 language:: en
 url:: https://productcoalition.com/product-metrics-cheat-sheet-583b3919417d
 blog-title:: Medium
-authors:: [[Stephen Butts #John316]]
+authors:: [[Stephen Butts]]
 links:: [Local library](zotero://select/library/items/F834BMJH), [Web library](https://www.zotero.org/users/6520516/items/F834BMJH)
 
 - [[Abstract]]
