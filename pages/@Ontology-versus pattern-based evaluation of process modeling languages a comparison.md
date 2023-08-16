@@ -1,6 +1,6 @@
 date:: 2007
 issue:: 1
-title:: @Ontology-versus pattern-based evaluation of process modeling languages: a comparison
+title:: @Ontology-versus pattern-based evaluation of process modeling languages a comparison
 pages:: 48
 volume:: 20
 item-type:: [[journalArticle]]

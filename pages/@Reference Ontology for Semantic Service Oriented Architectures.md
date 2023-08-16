@@ -1,6 +1,6 @@
 institution:: OASIS Semantic Execution Environment TC
 date:: 2008
-title:: @Reference Ontology for Semantic Service Oriented Architectures v1.0
+title:: @Reference Ontology for Semantic Service Oriented Architectures
 item-type:: [[report]]
 access-date:: 2022-12-09T08:54:04Z
 original-title:: Reference Ontology for Semantic Service Oriented Architectures v1.0

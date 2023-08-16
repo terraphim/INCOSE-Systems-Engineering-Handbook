@@ -1,4 +1,4 @@
-title:: @PRINCE2® wiki project management
+title:: @PRINCE2 wiki project management
 item-type:: [[webpage]]
 access-date:: 2022-12-11T08:42:57Z
 original-title:: PRINCE2® wiki project management

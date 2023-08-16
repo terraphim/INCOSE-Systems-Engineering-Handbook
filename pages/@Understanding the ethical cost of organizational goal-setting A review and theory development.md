@@ -1,7 +1,7 @@
 date:: 2008
 issue:: 1
 extra:: Publisher: Springer
-title:: @Understanding the ethical cost of organizational goal-setting: A review and theory development
+title:: @Understanding the ethical cost of organizational goal-setting A review and theory development
 pages:: 63–81
 volume:: 81
 item-type:: [[journalArticle]]

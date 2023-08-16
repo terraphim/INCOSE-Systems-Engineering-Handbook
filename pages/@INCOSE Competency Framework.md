@@ -3,7 +3,7 @@ issn:: 2334-5837
 issue:: 1
 extra:: _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/j.2334-5837.2017.00344.x
 doi:: https://doi.org/10.1002/j.2334-5837.2017.00344.x
-title:: @Version 0.75 of the Proposed INCOSE Competency Framework
+title:: @INCOSE Competency Framework
 pages:: 45-56
 volume:: 27
 item-type:: [[journalArticle]]

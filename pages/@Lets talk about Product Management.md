@@ -1,5 +1,5 @@
 date:: [[Wed, 08.02.2017]]
-title:: @Let’s talk about Product Management
+title:: @Lets talk about Product Management
 website-title:: Medium
 item-type:: [[webpage]]
 access-date:: 2023-04-12T11:21:27Z

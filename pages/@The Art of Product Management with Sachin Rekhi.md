@@ -1,6 +1,6 @@
 date:: [[Fri, 20.05.2016]]
 running-time:: 1:07:05
-title:: @The Art of Product Management with Sachin Rekhi (ENG’05 W’05)
+title:: @The Art of Product Management with Sachin Rekhi
 item-type:: [[videoRecording]]
 access-date:: 2022-06-17T04:14:00Z
 original-title:: The Art of Product Management with Sachin Rekhi (ENG’05 W’05)

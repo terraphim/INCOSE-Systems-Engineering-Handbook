@@ -5,7 +5,7 @@ place:: Cham
 series:: Management for Professionals
 extra:: DOI: 10.1007/978-3-319-49998-7
 isbn:: 978-3-319-49997-0 978-3-319-49998-7
-title:: @The Product Manager's Toolkit®
+title:: @The Product Manager Toolkit
 item-type:: [[book]]
 access-date:: 2023-02-17T11:00:31Z
 original-title:: The Product Manager's Toolkit®

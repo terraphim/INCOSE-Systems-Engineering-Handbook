@@ -1,5 +1,5 @@
 date:: [[Mon, 20.02.2023]]
-title:: @The age of cargo cult Agile must end.
+title:: @The age of cargo cult Agile must end
 item-type:: [[blogPost]]
 access-date:: 2023-02-21T09:07:01Z
 original-title:: The age of cargo cult Agile must end.

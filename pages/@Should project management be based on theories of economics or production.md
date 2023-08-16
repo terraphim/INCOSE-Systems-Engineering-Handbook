@@ -3,7 +3,7 @@ date:: [[Wed, 01.03.2006]]
 issn:: 0961-3218
 issue:: 2
 doi:: 10.1080/09613210500491480
-title:: @Should project management be based on theories of economics or production?
+title:: @Should project management be based on theories of economics or production
 pages:: 154-163
 volume:: 34
 item-type:: [[journalArticle]]

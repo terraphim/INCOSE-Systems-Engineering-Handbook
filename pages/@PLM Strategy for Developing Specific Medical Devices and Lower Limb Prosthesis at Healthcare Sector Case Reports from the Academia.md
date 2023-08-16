@@ -5,7 +5,7 @@ place:: Cham
 series:: Decision Engineering
 extra:: DOI: 10.1007/978-3-030-16134-7_16
 isbn:: 978-3-030-16134-7
-title:: @PLM Strategy for Developing Specific Medical Devices and Lower Limb Prosthesis at Healthcare Sector: Case Reports from the Academia
+title:: @PLM Strategy for Developing Specific Medical Devices and Lower Limb Prosthesis at Healthcare Sector Case Reports from the Academia
 book-title:: Product Lifecycle Management (Volume 4): The Case Studies
 pages:: 201-221
 item-type:: [[bookSection]]

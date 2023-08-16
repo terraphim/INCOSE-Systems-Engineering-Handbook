@@ -1,7 +1,7 @@
 date:: 2020
 issue:: 1
 extra:: Publisher: Wiley Online Library
-title:: @Toward a contingent model of mirroring between product and organization: A knowledge management perspective
+title:: @Toward a contingent model of mirroring between product and organization A knowledge management perspective
 pages:: 97–117
 volume:: 37
 item-type:: [[journalArticle]]

@@ -1,5 +1,5 @@
 date:: [[Fri, 24.09.2021]]
-title:: @Should you derive your IT Strategy from your Business Strategy? Probably not too much.
+title:: @Should you derive your IT Strategy from your Business Strategy
 item-type:: [[blogPost]]
 access-date:: 2022-05-12T14:22:47Z
 original-title:: Should you derive your IT Strategy from your Business Strategy? Probably not too much.

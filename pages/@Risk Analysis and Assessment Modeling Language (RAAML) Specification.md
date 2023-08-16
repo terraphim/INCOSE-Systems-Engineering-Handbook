@@ -1,5 +1,5 @@
 date:: 2022
-title:: @Risk Analysis and Assessment Modeling Language (RAAML) Specification Version 1.0
+title:: @Risk Analysis and Assessment Modeling Language (RAAML) Specification
 item-type:: [[document]]
 access-date:: 2022-04-20T05:57:25Z
 original-title:: Risk Analysis and Assessment Modeling Language (RAAML) Specification Version 1.0

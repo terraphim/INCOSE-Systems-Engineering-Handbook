@@ -5,7 +5,7 @@ place:: Cham
 series:: Decision Engineering
 extra:: DOI: 10.1007/978-3-030-16134-7_13
 isbn:: 978-3-030-16134-7
-title:: @Management of Virtual Models with Provenance Information in the Context of Product Lifecycle Management: Industrial Case Studies
+title:: @Management of Virtual Models with Provenance Information in the Context of Product Lifecycle Management Industrial Case Studies
 book-title:: Product Lifecycle Management (Volume 4): The Case Studies
 pages:: 153-170
 item-type:: [[bookSection]]

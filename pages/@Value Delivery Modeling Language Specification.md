@@ -1,6 +1,6 @@
 date:: 2018
 publisher:: OMG Standards Development Organization
-title:: @Value Delivery Modeling Language Specification Version 1.1
+title:: @Value Delivery Modeling Language Specification
 item-type:: [[document]]
 access-date:: 2022-04-15T12:40:07Z
 original-title:: Value Delivery Modeling Language Specification Version 1.1

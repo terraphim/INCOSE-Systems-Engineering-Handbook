@@ -1,7 +1,7 @@
 date:: 2015
 issue:: 5
 extra:: "Publisher: SAGE Publications Sage CA: Los Angeles, CA"
-title:: @Understanding complex systems through mental models and shared experiences: a case study
+title:: @Understanding complex systems through mental models and shared experiences a case study
 pages:: 536–562
 volume:: 46
 item-type:: [[journalArticle]]

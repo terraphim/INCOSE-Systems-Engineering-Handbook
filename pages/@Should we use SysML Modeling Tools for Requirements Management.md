@@ -1,5 +1,5 @@
 date:: [[Mon, 18.07.2022]]
-title:: @Should we use SysML Modeling Tools for Requirements Management?
+title:: @Should we use SysML Modeling Tools for Requirements Management
 website-title:: Model Based Systems Engineering
 item-type:: [[webpage]]
 access-date:: 2022-07-26T11:36:17Z

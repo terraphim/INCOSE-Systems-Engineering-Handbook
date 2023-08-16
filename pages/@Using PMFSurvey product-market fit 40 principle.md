@@ -1,5 +1,5 @@
 date:: 2018
-title:: @Using PMFSurvey.com product-market fit 40% principle
+title:: @Using PMFSurvey product-market fit 40 principle
 item-type:: [[blogPost]]
 access-date:: 2023-02-01T10:01:31Z
 original-title:: Using PMFSurvey.com product-market fit 40% principle

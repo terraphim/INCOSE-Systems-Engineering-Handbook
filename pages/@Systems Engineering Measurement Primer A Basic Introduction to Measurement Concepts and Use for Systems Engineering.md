@@ -1,6 +1,6 @@
 date:: 2010
 publisher:: INCOSE
-title:: @Systems Engineering Measurement Primer  v2.0. A Basic Introduction to Measurement Concepts and Use for Systems Engineering.
+title:: @Systems Engineering Measurement Primer A Basic Introduction to Measurement Concepts and Use for Systems Engineering
 item-type:: [[document]]
 call-number:: INCOSE‐TP‐2010‐005‐02
 original-title:: Systems Engineering Measurement Primer  v2.0. A Basic Introduction to Measurement Concepts and Use for Systems Engineering.

@@ -5,7 +5,7 @@ place:: Cham
 series:: Decision Engineering
 extra:: DOI: 10.1007/978-3-030-16134-7_19
 isbn:: 978-3-030-16134-7
-title:: @Significance of Cloud PLM in Industry 4.0
+title:: @Significance of Cloud PLM in Industry 4
 book-title:: Product Lifecycle Management (Volume 4): The Case Studies
 pages:: 249-255
 item-type:: [[bookSection]]

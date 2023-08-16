@@ -2,7 +2,7 @@ date:: 01/2020
 issn:: 2641-435X
 issue:: 1-2
 doi:: 10.1162/dint_a_00040
-title:: @Ontology, Ontologies and the “I” of FAIR
+title:: @Ontology, Ontologies and the I of FAIR
 pages:: 181-191
 volume:: 2
 item-type:: [[journalArticle]]

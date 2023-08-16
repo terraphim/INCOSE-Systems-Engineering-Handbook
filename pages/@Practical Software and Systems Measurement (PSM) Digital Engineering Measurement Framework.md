@@ -1,6 +1,6 @@
 date:: 2022
 publisher:: INCOSE
-title:: @Practical Software and Systems Measurement (PSM) Digital Engineering Measurement Framework Version 1.1
+title:: @Practical Software and Systems Measurement (PSM) Digital Engineering Measurement Framework
 item-type:: [[document]]
 call-number:: INCOSE-TP-2022-002-01
 original-title:: Practical Software and Systems Measurement (PSM) Digital Engineering Measurement Framework Version 1.1

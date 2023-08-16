@@ -1,6 +1,6 @@
 date:: July 2016
 publisher:: OMG Standards Development Organization
-title:: @Requirements Interchange Format ReqIF™ 1.2
+title:: @Requirements Interchange Format ReqIF
 item-type:: [[document]]
 original-title:: Requirements Interchange Format ReqIF™ 1.2
 url:: https://www.omg.org/spec/ReqIF

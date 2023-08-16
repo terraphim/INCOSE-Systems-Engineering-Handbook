@@ -2,7 +2,7 @@ date:: [[Sun, 01.03.2020]]
 issn:: 1573-7616
 issue:: 2
 doi:: 10.1007/s10664-020-09804-z
-title:: @Meshing agile and plan-driven development in safety-critical software: a case study
+title:: @Meshing agile and plan-driven development in safety-critical software a case study
 pages:: 1035-1062
 volume:: 25
 item-type:: [[journalArticle]]
