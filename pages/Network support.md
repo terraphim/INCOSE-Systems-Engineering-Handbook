@@ -1,4 +1,5 @@
 type:: [[skill]]
+terraphimrole:: [[System operator]]
 source:: [[@The global skills and competency framework for a digital world]]
 documentation:: Providing maintenance and support services for communications networks.
 sfiacode:: [[NTAS]]

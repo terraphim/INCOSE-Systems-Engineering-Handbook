@@ -1,4 +1,5 @@
 type:: [[skill]]
+terraphimrole:: [[System operator]]
 source:: [[@The global skills and competency framework for a digital world]]
 documentation:: Delivering management, technical and administrative services to implement security controls and security management strategies.
 sfiacode:: [[SCAD]]
@@ -14,4 +15,5 @@ sfialevel5description:: Monitors the application and compliance of security oper
 sfialevel6description:: Develops policies, standards, processes, guidelines for ensuring the physical and electronic security of automated systems. Ensures that the policy and standards for security operations are fit for purpose, current and are correctly implemented. Reviews new business proposals and provides specialist advice on security issues and implications.
 sfialevel7description:: null
 
+-
 -

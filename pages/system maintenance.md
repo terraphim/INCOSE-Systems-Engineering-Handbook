@@ -1,4 +1,5 @@
 type:: [[Skill evidence]]
+terraphimrole:: [[System operator]]
 skill:: [[Maintenance]], [[Transition]], [[Operation]] 
 person:: [[Aleksandr Turkhanov]] 
 topic:: [[Maintenance]]

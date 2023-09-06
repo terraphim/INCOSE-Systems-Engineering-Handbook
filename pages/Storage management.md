@@ -1,4 +1,5 @@
 type:: [[skill]]
+terraphimrole:: [[System operator]]
 source:: [[@The global skills and competency framework for a digital world]]
 documentation:: Planning, implementing and optimising the technologies and processes used for data storage.
 sfiacode:: [[STMG]]

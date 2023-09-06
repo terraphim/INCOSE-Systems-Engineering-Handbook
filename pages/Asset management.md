@@ -1,4 +1,5 @@
 type:: [[skill]]
+terraphimrole:: [[System operator]]
 source:: [[@The global skills and competency framework for a digital world]]
 documentation:: Managing the full life cycle of assets from acquisition, operation, maintenance to disposal.
 sfiacode:: [[ASMG]]
@@ -13,6 +14,4 @@ sfialevel5description:: Manages and maintains the service compliance of  IT and 
 sfialevel6description:: Sets the strategy for asset management across the organisation. Communicates the policy, governance, scope, and roles involved in asset management. Promotes awareness of and commitment to the role of asset management in the continuing economic and effective provision of services. Provides information and advice on complex asset management issues. Initiates impact assessment arising from decisions to obtain, change or continue the possession or use of an asset, system or service.
 sfialevel7description:: null
 
--
--
 -

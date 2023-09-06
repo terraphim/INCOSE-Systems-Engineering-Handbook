@@ -1,3 +1,8 @@
+type:: [[article]]
+source:: [[@Guide to the Systems Engineering Body of Knowledge (SEBoK)]]
+relatedconcepts:: [[Operation]]
+terraphimrole:: [[System operator]]
+
 - [System Operation - SEBoK](https://sebokwiki.org/wiki/System_Operation)
 - Lead Authors: Scott Jackson, Brian Gallagher, Contributing Author: Leopoldo deCardenas
 - The role of systems engineering (SE) during the operation of a system consists of ensuring that the system maintains key mission and business functions and is operationally effective. The systems engineer is one of the stakeholders who ensures that maintenance actions and other major changes are performed according to the long-term vision of the system. Both the maintenance actions and any implemented changes must meet the evolving needs of owning and operating stakeholders consistent with the documented and approved architecture. SE considerations will also include the eventual decommissioning or disposal of the system so that the disposal occurs according to disposal/retirement plans. Those plans must account for and be compliant with relevant laws and regulations (for additional information on disposal or retirement, please see the Product and Service Life Management knowledge area (KA)). When the system-of-interest (SoI) replaces an existing or legacy system, it may be necessary to manage the migration between systems such that stakeholders do not experience a breakdown in services (INCOSE 2012).
