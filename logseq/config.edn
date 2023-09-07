@@ -247,7 +247,7 @@
  :ref/linked-references-collapsed-threshold 50
 
  ;; Favorites to list on the left sidebar
- :favorites ["Operation" "@System Operation" "@Digital Systems Engineering Process Model Version 1"]
+ :favorites ["template" "Operation" "@System Operation" "@Digital Systems Engineering Process Model Version 1"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

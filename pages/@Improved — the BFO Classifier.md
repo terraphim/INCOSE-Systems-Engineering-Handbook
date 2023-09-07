@@ -11,3 +11,4 @@ links:: [Local library](zotero://select/library/items/HAZV8JWX), [Web library](h
 
 - [[Abstract]]
 	- brief description of our FOIS2023 paper entitled “a method to improve alignments between domain and foundational ontologies”, focusing on BFO-aligned ontologies
+	- ![image.png](../assets/image_1694079027837_0.png){:height 501, :width 679}
