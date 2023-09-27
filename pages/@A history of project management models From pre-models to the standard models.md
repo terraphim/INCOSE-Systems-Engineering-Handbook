@@ -1,4 +1,4 @@
-tags:: [[History]], [[Institutionalization]], [[Management model]], [[Project]], [[Project management institute]], [[Standard model]]
+tags:: [[Institutionalization]], [[Management model]], [[Project]], [[Project management institute]], [[Standard model]]
 date:: [[Mon, 01.07.2013]]
 issn:: 0263-7863
 issue:: 5
