@@ -18,13 +18,15 @@ terraphimrole:: [[System operator]]
 		- [[Validated system]]
 		  collapsed:: true
 			- industrial chain
-			- downstream
-			- midstream
-			- upstream
-			- operation and maintenance service modules
-			- oil and gas production systems
-			- interconnected, multi-domain interactive cyber-physical intelligent system
-			- intelligent safe operation and maintenance technology system of oil and gas production system
+			- industrial chain downstream
+			- industrial chain midstream
+			- industrial chain upstream
+			- operation service module
+			- maintenance service module
+			- oil and gas production system
+			- interconnected multi-domain interactive cyber-physical intelligent system
+			- intelligent safe operation of oil and gas production system
+			- maintenance technology system of oil and gas production system
 		- [[Validation report]]
 		- [[Maintenance report]]
 		  collapsed:: true
@@ -37,48 +39,55 @@ terraphimrole:: [[System operator]]
 			- macro decision analysis ability
 			- derivative disaster assessment models for oil and gas pipelines and stations
 			- self-operation and maintenance of the system
-			- automatic push, intelligent diagnosis, intelligent inspection, and intelligent analysis
-			- manual production scheduling, diagnosis, inspection, and empirical judgment
+			- intelligent diagnosis
+			- intelligent inspection
+			- intelligent analysis
+			- manual production scheduling
+			- manual production diagnosis
+			- manual production inspection
 			- knowledge-based decision-making
 			- experience-based decision-making
-			- enhance the level of operation and maintenance management
+			- enhance the level of operation
+			- enhance the level of maintenance management
 			- uniﬁed processing
-			- uniﬁed linkage and emergency response
-			- uniﬁed monitoring and judgment
-			- of the entire oil and gas production system
+			- uniﬁed linkage
+			- uniﬁed emergency response
+			- uniﬁed monitoring
+			- uniﬁed judgment
 			- efﬁciency improvement
 			- quality assurance
 			- safety assurance
-			- Edge-cloud collaborative safe operation and maintenance knowledge generation on industrial internet
-			- elucidates the risk propagation mechanism across devices, space, and time
-			- causes and evolution processes of risks
+			- edge-cloud collaborative safe operation
+			- maintenance knowledge generation on industrial internet
+			- elucidate the risk propagation mechanism across devices
+			- cause and evolution process of risk
 			- risk evolution model
 			- risk evolution status
 			- risk propagation mechanism
 			- forms and rules of risk propagation across space
-			- platform uniﬁcation
-			- industrial chain
 			- normal and stable operation of production equipment and facilities
 			- process safety
 			- job safety
 			- equipment safety
-			- production scenarios
+			- production scenario
 			- comprehensive safety
 		- [[Operation enabling system requirements]]
 		  collapsed:: true
-			- remote monitoring and predictive maintenance platform
+			- remote monitoring platform
+			- predictive maintenance platform
 			- virtual environment for drilling and development
 			- sensory-based equipment condition identiﬁcation
 			- data-based equipment condition identiﬁcation
 			- data perception
-			- judge external information through mechanism models, data-driven models
-			- software platform
+			- judge external information through mechanism models
+			- judge external information through data-driven models
 			- real-time monitoring
 			- diagnostic evaluation
 			- predictive warning
 		- [[Operation constraints]]
 		  collapsed:: true
-			- unclear coupling mechanism and control factors
+			- unclear coupling mechanism
+			- unclear control factors
 			- fragmentation of data
 			- risk interference effects
 			- high operation and maintenance risk
@@ -98,14 +107,16 @@ terraphimrole:: [[System operator]]
 			- fault prediction analysis
 			- intelligent analysis and decision-making
 			- risk assessment
-			- multi-dimensional and multi-scale risk evolution in oil and gas ﬁelds
+			- multi-dimensional risk evolution in oil and gas ﬁelds
+			- multi-scale risk evolution in oil and gas ﬁelds
 		- [[Operation record]]
 		  collapsed:: true
-			- process safety warnings
-			- maintenance decisions
+			- process safety warning
+			- maintenance decision
 			- on-site situation
 			- overall safe production situation
-			- failure or abnormality of a single item of production equipment
+			- failure of a single item of production equipment
+			- abnormality of a single item of production equipment
 			- fault to propagate
 	- Activities
 		- [[Prepare for operation]]
