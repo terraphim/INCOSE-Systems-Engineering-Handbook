@@ -11,6 +11,7 @@ terraphimrole:: [[System operator]]
 		- [[Life cycle concepts]]
 		  collapsed:: true
 			- production process model
+			- full life cycle of operation and maintenance of oil and gas production systems
 		- [[Operator or maintainer training material]]
 		- [[Trained operators and maintainers]]
 		  collapsed:: true
@@ -34,9 +35,10 @@ terraphimrole:: [[System operator]]
 	- Outputs
 		- [[Operation strategy]]
 		  collapsed:: true
-			- risk monitoring to proactive prevention
+			- transition from risk monitoring to proactive prevention
 			- key facility health monitoring
 			- macro decision analysis ability
+			- achieve predictive maintenance
 			- derivative disaster assessment models for oil and gas pipelines and stations
 			- self-operation and maintenance of the system
 			- intelligent diagnosis
@@ -148,7 +150,6 @@ terraphimrole:: [[System operator]]
 			- reﬁning
 			- chemical engineering
 			- up, middle and down streams
-			- operation and maintenance of oil and gas production systems
 			- automatic regular mode
 			- real-time monitoring and online evaluation of equipment operation
 			- timely detection and maintenance of anomalies
