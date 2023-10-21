@@ -8,19 +8,7 @@ terraphimrole:: [[System operator]]
 - ![Intelligent safe operation and maintenance of oil and gas production systems.pdf](../assets/Intelligent_safe_operation_and_maintenance_of_oil_and_gas_production_systems_1696499001760_0.pdf)
 	- Research on risk formation mechanism and control method of oil & gas storage and transportation system from the perspective of cyber-physics
 	- Inputs
-		- [[Life cycle concepts]] - 2
-		  collapsed:: true
-			- full life cycle of operation and maintenance of oil and gas production systems
-			  logseq.order-list-type:: number
-			- production process model
-			  logseq.order-list-type:: number
-		- [[Operator or maintainer training material]]
-		- [[Trained operators and maintainers]] - 1
-		  collapsed:: true
-			- health management
-			  logseq.order-list-type:: number
 		- [[Validated system]] - 10
-		  collapsed:: true
 			- industrial chain
 			  logseq.order-list-type:: number
 			- industrial chain downstream
@@ -41,22 +29,24 @@ terraphimrole:: [[System operator]]
 			  logseq.order-list-type:: number
 			- operation service module
 			  logseq.order-list-type:: number
-		- [[Validation report]]
+		- [[Life cycle concepts]] - 2
+		  collapsed:: true
+			- full life cycle of operation and maintenance of oil and gas production systems
+			  logseq.order-list-type:: number
+			- production process model
+			  logseq.order-list-type:: number
 		- [[Maintenance report]] - 1
 		  collapsed:: true
 			- predictive maintenance
 			  logseq.order-list-type:: number
+		- [[Trained operators and maintainers]] - 1
+		  collapsed:: true
+			- health management
+			  logseq.order-list-type:: number
+		- [[Operator or maintainer training material]]
+		- [[Validation report]]
 	- Activities
-		- [[Prepare for operation]] - 3
-		  collapsed:: true
-			- analyze key hydraulic and thermal processes during oil and gas storage and transportation
-			  logseq.order-list-type:: number
-			- risk assessment
-			  logseq.order-list-type:: number
-			- simulate actual working conditions
-			  logseq.order-list-type:: number
 		- [[Perform operation]] - 29
-		  collapsed:: true
 			- acquire on-site production data
 			  logseq.order-list-type:: number
 			- automatic regular mode
@@ -135,6 +125,14 @@ terraphimrole:: [[System operator]]
 			- post-emergency response
 			  logseq.order-list-type:: number
 			- systematic integrity evaluation
+			  logseq.order-list-type:: number
+		- [[Prepare for operation]] - 3
+		  collapsed:: true
+			- analyze key hydraulic and thermal processes during oil and gas storage and transportation
+			  logseq.order-list-type:: number
+			- risk assessment
+			  logseq.order-list-type:: number
+			- simulate actual working conditions
 			  logseq.order-list-type:: number
 		- [[Support the customer]]
 	- Outputs
@@ -216,50 +214,6 @@ terraphimrole:: [[System operator]]
 			  logseq.order-list-type:: number
 			- uniﬁed judgment
 			  logseq.order-list-type:: number
-		- [[Operation enabling system requirements]] - 11
-		  collapsed:: true
-			- data-based equipment condition identiﬁcation
-			  logseq.order-list-type:: number
-			- data perception
-			  logseq.order-list-type:: number
-			- diagnostic evaluation
-			  logseq.order-list-type:: number
-			- judge external information through data-driven models
-			  logseq.order-list-type:: number
-			- judge external information through mechanism models
-			  logseq.order-list-type:: number
-			- predictive maintenance platform
-			  logseq.order-list-type:: number
-			- predictive warning
-			  logseq.order-list-type:: number
-			- real-time monitoring
-			  logseq.order-list-type:: number
-			- remote monitoring platform
-			  logseq.order-list-type:: number
-			- sensory-based equipment condition identiﬁcation
-			  logseq.order-list-type:: number
-			- virtual environment for drilling and development
-			  logseq.order-list-type:: number
-		- [[Operation constraints]] - 9
-		  collapsed:: true
-			- unclear coupling mechanism
-			  logseq.order-list-type:: number
-			- unclear control factors
-			  logseq.order-list-type:: number
-			- fragmentation of data
-			  logseq.order-list-type:: number
-			- risk interference effects
-			  logseq.order-list-type:: number
-			- high operation and maintenance risk
-			  logseq.order-list-type:: number
-			- great accident inﬂuence
-			  logseq.order-list-type:: number
-			- high-risk operations
-			  logseq.order-list-type:: number
-			- high susceptibility to accidents
-			  logseq.order-list-type:: number
-			- prevalence of information silos
-			  logseq.order-list-type:: number
 		- [[Operation report]] - 12
 		  collapsed:: true
 			- cross-domain risk evolution
@@ -285,6 +239,49 @@ terraphimrole:: [[System operator]]
 			- risk of unplanned downtime
 			  logseq.order-list-type:: number
 			- risk assessment
+			  logseq.order-list-type:: number
+		- [[Operation enabling system requirements]] - 11
+		  collapsed:: true
+			- data-based equipment condition identiﬁcation
+			  logseq.order-list-type:: number
+			- data perception
+			  logseq.order-list-type:: number
+			- diagnostic evaluation
+			  logseq.order-list-type:: number
+			- judge external information through data-driven models
+			  logseq.order-list-type:: number
+			- judge external information through mechanism models
+			  logseq.order-list-type:: number
+			- predictive maintenance platform
+			  logseq.order-list-type:: number
+			- predictive warning
+			  logseq.order-list-type:: number
+			- real-time monitoring
+			  logseq.order-list-type:: number
+			- remote monitoring platform
+			  logseq.order-list-type:: number
+			- sensory-based equipment condition identiﬁcation
+			  logseq.order-list-type:: number
+			- virtual environment for drilling and development
+			  logseq.order-list-type:: number
+		- [[Operation constraints]] - 9
+			- unclear coupling mechanism
+			  logseq.order-list-type:: number
+			- unclear control factors
+			  logseq.order-list-type:: number
+			- fragmentation of data
+			  logseq.order-list-type:: number
+			- risk interference effects
+			  logseq.order-list-type:: number
+			- high operation and maintenance risk
+			  logseq.order-list-type:: number
+			- great accident inﬂuence
+			  logseq.order-list-type:: number
+			- high-risk operations
+			  logseq.order-list-type:: number
+			- high susceptibility to accidents
+			  logseq.order-list-type:: number
+			- prevalence of information silos
 			  logseq.order-list-type:: number
 		- [[Operation record]] - 7
 		  collapsed:: true
