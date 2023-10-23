@@ -1,7 +1,9 @@
 type:: [[TerraphimRole]]
+TFinputs:: [[Life cycle concepts]], [[Operator or maintainer training material]], [[Trained operators and maintainers]], [[Validated system]], [[Validation report]], [[Maintenance report]]
+TFoutputs:: [[Operation strategy]], [[Operation enabling system requirements]], [[Operation constraints]], [[Operation report]], [[Operation record]]
+TFactivities:: [[Prepare for operation]], [[Perform operation]], [[Manage results of operation]], [[Support the customer]]
 
 - [[system maintenance]]
-  collapsed:: true
 	- **Skill "System operation"** from the [[@INCOSE Competency Framework]]
 		- Here, I want to explain how I performed [[Transition]], [[Operation]], and [[Maintenance]] processes of the production line for the X10 modular LED product R&D and launch, including the smart-lighting horticulture product line.
 	- **Situation.**
