@@ -1,9 +1,16 @@
 type:: [[TerraphimRole]]
 TFinputs:: [[Life cycle concepts]], [[Operator or maintainer training material]], [[Trained operators and maintainers]], [[Validated system]], [[Validation report]], [[Maintenance report]]
-TFoutputs:: [[Operation strategy]], [[Operation enabling system requirements]], [[Operation constraints]], [[Operation report]], [[Operation record]]
 TFactivities:: [[Prepare for operation]], [[Perform operation]], [[Manage results of operation]], [[Support the customer]]
+TFoutputs:: [[Operation strategy]], [[Operation enabling system requirements]], [[Operation constraints]], [[Operation report]], [[Operation record]]
+relationships:: [[Life cycle concepts]]->[[Prepare for operation]], [[Operator or maintainer training material]]->[[Prepare for operation]], [[Operator or maintainer training material]]->[[Perform operation]], [[Trained operators and maintainers]]->[[Perform operation]], [[Validated system]]->[[Perform operation]], [[Validated system]]->[[Manage results of operation]], [[Validated system]]->[[Support the customer]], [[Validation report]]->[[Prepare for operation]], [[Maintenance report]]->[[Perform operation]], [[Maintenance report]]->[[Manage results of operation]], [[Prepare for operation]]->[[Operation strategy]], [[Prepare for operation]]->[[Operation enabling system requirements]], [[Prepare for operation]]->[[Operation constraints]], [[Perform operation]]->[[Operation constraints]], [[Perform operation]]->[[Operation report]], [[Perform operation]]->[[Operation record]], [[Manage results of operation]]->[[Operation report]], [[Manage results of operation]]->[[Operation record]], [[Manage results of operation]]->[[Operation constraints]], [[Support the customer]]->[[Operation record]]
 
+- [[Checklists]]
+	- Name relationships between specific inputs, activities and outputs so that they make sense (produce valid statements) in the context. Are those relationship names make sense for generalized concepts? If they don't, can you explain why?
+	- Can you propose how to measure the strength of those relationships, how strong are they as causal factors between inputs, activities, and outputs?
+	- What elements of the process model are omitted in the text and are they important?
+	- What wider concepts selected by Terraphim should be the part of the process model?
 - [[system maintenance]]
+  collapsed:: true
 	- **Skill "System operation"** from the [[@INCOSE Competency Framework]]
 		- Here, I want to explain how I performed [[Transition]], [[Operation]], and [[Maintenance]] processes of the production line for the X10 modular LED product R&D and launch, including the smart-lighting horticulture product line.
 	- **Situation.**
