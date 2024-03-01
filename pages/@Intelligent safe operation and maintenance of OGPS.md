@@ -2,6 +2,7 @@ type:: [[article]]
 :LOGBOOK:
 CLOCK: [2023-03-14 Tue 13:31:11]--[2023-03-14 Tue 13:31:12] =>  00:00:01
 :END:
+links:: [Intelligent safe operation and maintenance of oil and gas production systems: Connotations and key technologies - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352854023000347)
 terraphimrole:: [[System operator]]
 
 - annotation-target::C:\Users\alext\OneDrive - Applied Knowledge Systems Ltd\Desktop\Models research\Intelligent safe operation and maintenance of oil and gas production systems.pdf
@@ -30,7 +31,6 @@ terraphimrole:: [[System operator]]
 			- operation service module
 			  logseq.order-list-type:: number
 		- [[Life cycle concepts]] - 2
-		  collapsed:: true
 			- full life cycle of operation and maintenance of oil and gas production systems
 			  logseq.order-list-type:: number
 			- production process model
