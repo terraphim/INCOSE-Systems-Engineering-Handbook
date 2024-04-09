@@ -1,0 +1,33 @@
+# Alpha release for terraphim
+	- desktop application
+		- mac os
+		- linux
+		- windows
+	- Terraphim Private cloud: terraphim server
+	- Next step: release
+- ## Terraphim Code
+	- Terraphim codebase is refactored, rewritten according to Rust best practices and prettified to provide best developers experience to build on top of
+	- next step: update/create documentation for contributors
+	-
+- # Atomic Server
+- Atomic Server used as CMS
+	- we build https://systems.tf website to share information about how to use atomic server as a systems modelling tool
+- Atomic Server used as data model prototyping tool
+- Atomic Server used as Database+API to power loan management process and calculations
+- # Commersial exploitation:
+	- completed 3 months paid work for Charm Impact where used Atomic for prototyping
+	- signed long term delivery with CHarm Impact to build platform on top of atomic server and terraphim
+	- pitched to SWCC joint proposition with another client Klarian, where knowledge management and AI assistant are powered by atomic server and terraphim
+- # End to End flow
+- Current focus on perfecting overall end to end human usable flow:
+	- engineer or expert take notes in logseq knowledge graph
+	- notes are used to create thesaurus for terraphim (using terraphim desktop, feature done, alpha testing)
+	- Thesaurus is used per each role to create terraphim graph (used for ranking search results). Feature done, alpha testing
+	- Terraphim desktop is used to search over local markdown files using Terraphim Graph for ranking (Feature done, alpha testing)
+	- Terraphim desktop search automatically populates atomic server with search results (first attempt and approach didn't work, required changes in Atomic Rust client, atomic server side updated with new client fetch, Terraphim feature for automatic cache population WIP https://github.com/terraphim/terraphim-ai/issues/12)
+	- User works with search results forming blogs or articles in atomic server using Atomic as standard CMS (all features done)
+	- Final articles are published via different domains using Atomic Server + sveltekit
+		- current websites: systems.tf
+		- planned set of websites on different topics: learning rust, knowledge graphs, search engines, metacortex engineering (cross discipline collaboration)
+	- Articles published (or drafts) in Atomic Server are used as input for terraphim (both desktop and cloud) as haystack for the role (instead or alongside of markdown files or any other sources) Blocked on https://github.com/atomicdata-dev/atomic-server/issues/778
+	-
